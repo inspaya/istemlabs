@@ -9,7 +9,7 @@ twitter: "https://twitter.com/inspaya"
 github: "https://github.com/inspaya"
 
 # Site config
-baseurl: "/home"
+baseurl: "/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
