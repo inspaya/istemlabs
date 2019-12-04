@@ -1,22 +1,22 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: feature
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Africa, Science"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
+  title: "Science Showcase - Fuel Generated from grass"
+  type: "Section"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
+  title: "Science"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "2019"
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>Content coming soon</p>
