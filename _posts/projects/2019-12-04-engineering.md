@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Africa, Engineering"
 
 project:
-  title: "Green Pineapple"
-  type: "Jekyll"
+  title: "Engineering"
+  type: "Section"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/greenpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Green Pineapple Co"
+  title: "Engineering"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "2019"
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/greenpineapple/mobile.jpg"
     alt: "Green Pineapple website on a mobile device"
 ---
-<p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
+<p>Content coming soon</p>
