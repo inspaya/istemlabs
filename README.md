@@ -2,9 +2,9 @@
 
 Africa is known for it's vast natural resources.
 
-Less featured are it's numerous , whose every day lives revolve around innovation used to address daily societal challenges.
+Less featured are it's numerous intellectuals, whose every day lives revolve around innovations used to address daily societal challenges.
 
-iStemLabsAfrica is designed to showcase the continent's intellectuals, share knowledge and mentor generations of innovators coming up.
+[iStemLabs.Africa](https://istemlabs.africa) is designed to showcase the continent's intellectuals, share knowledge and mentor generations of innovators coming up.
 
 ![iStemLabsAfrica Logo](https://github.com/inspaya/istemlabs/blob/master/assets/images/istemlabs-africa.svg)
 
@@ -22,4 +22,4 @@ Coming Soon
 
 ## Credits
 
-We are grateful to [@arnolds](github.com/arnolds) for the Open Source [Pineapple Template](github.com/arnolds/pineapple.git)
+We are grateful to [@arnolds](https://github.com/arnolds) for the Open Source [Pineapple Template](https://github.com/arnolds/pineapple)
