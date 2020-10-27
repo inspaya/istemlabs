@@ -1,0 +1,20 @@
+- title: Home
+  url: /
+- title: Innovation Center
+  url: /about
+- title: Learning Tracks
+  url: /#
+  sublinks:
+  - title: For Students
+    url: /course-grid
+  - title: For Schools
+    url: /course-grid-left-sidebar
+  - title: For Young Adults
+    url: /course-grid-right-sidebar
+  - title: Others
+    url: /course-list
+- title: Blog
+  url: /blog-right
+- title: Contact
+  url: /contact      
+  
