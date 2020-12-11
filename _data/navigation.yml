@@ -5,12 +5,10 @@
 - title: Learning Tracks
   url: /#
   sublinks:
-  - title: For Students
+  - title: Software Enginering
     url: /course-grid
-  - title: For Schools
+  - title: S.T.E.M
     url: /course-grid-left-sidebar
-  - title: For Young Adults
-    url: /course-grid-right-sidebar
   - title: Others
     url: /course-list
 - title: Blog

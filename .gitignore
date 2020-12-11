@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# Random config files
+.*
+
 # install scripts
 init_wp
 
@@ -38,3 +41,6 @@ tmp
 /wp-config.php
 /.htaccess
 /wp-content/uploads/*
+
+# cleanup
+_references
