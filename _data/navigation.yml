@@ -5,11 +5,11 @@
 - title: Learning Tracks
   url: /#
   sublinks:
-  - title: Software Enginering
+  - title: Software Engineering
     url: /course-grid
   - title: S.T.E.M
     url: /course-grid-left-sidebar
-  - title: Others
+  - title: Makers
     url: /course-list
 - title: Blog
   url: /#
