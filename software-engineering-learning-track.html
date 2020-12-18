@@ -8,7 +8,8 @@ permalink: /software-engineering-learning-track
       <section class="themeix-Course section-spacing bg-color">
          <div class="container">
             <div class="row {{page.url}}">
-                  {% for course in site.courses %}
+                  {% assign software_courses = site.courses | where: "track", "software" %}
+                  {% for course in software_courses %}
                      {% include course-card.html %}
                   {% endfor %}
             </div>

@@ -15,7 +15,8 @@ permalink: /stem-learning-track
                 </div>
                 <div class="col-lg-8 col-md-7">
                      <div class="row">
-                        {% for course in site.courses %}
+                        {% assign stem_courses = site.courses | where: "track", "stem" %} 
+                        {% for course in stem_courses  %}
                             {% include course-card.html %}
                         {% endfor %}
                     </div>
