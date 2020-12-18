@@ -6,11 +6,11 @@
   url: /#
   sublinks:
   - title: Software Engineering
-    url: /course-grid
+    url: /software-engineering-learning-track
   - title: S.T.E.M
-    url: /course-grid-left-sidebar
+    url: /stem-learning-track
   - title: Makers
-    url: /course-list
+    url: /#
 - title: Blog
   url: /#
 - title: Contact
