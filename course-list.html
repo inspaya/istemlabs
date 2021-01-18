@@ -19,9 +19,10 @@ permalink: /course-list
                         <h3>{{course.name}}</h3>
                      </a>
                      <p>{{course.summary}}</p>
+                     <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
                      <div class="themeix-course-action-2">
                         <ul>
-                           <li><span><a class="popular-course-enroll" href="{{course.lessons_url}}">View Lessons</a></span></li>
+                           <li><span><a class="popular-course-enroll" href="{{course.lessons_url}}">View {{ course.num_of_lessons }} Lessons</a></span></li>
                         </ul>
                      </div>
                   </div>
