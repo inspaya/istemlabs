@@ -1,0 +1,32 @@
+- name: "Programming for Kids"
+  summary: "This course explores the world of computer programming by using simple learning environments and educational toys to teach kids. Upon successful completion, participants are awarded the iSTEMLabsAfrica Kid Coder Certificate"
+  certificate: "iSTEMLabsAfrica Kid Coder Certificate"
+  delivery: Online and In-Person
+  num_of_lessons: 16
+  image: /assets/images/programming-for-kids.jpg
+  lessons_page: http://istemlabs.africa/stem-learning-track
+- name: "Software Engineering: Beginner Course I"
+  certificate: "iSTEMLabsAfrica Website Builder Certificate"
+  delivery: Online and In-Person
+  num_of_lessons: 16
+  image: /assets/images/software-beginner.jpg
+  lessons_page: http://istemlabs.africa/software-engineering-learning-track
+- name: "Software Engineering: Beginner Course II"
+  certificate: nil
+  delivery: Online and In-Person
+  num_of_lessons: 16
+  image: /assets/images/software-beginner.jpg
+  lessons_page: http://istemlabs.africa/software-engineering-learning-track
+
+- name: "Software Engineering: Intermediate Course"
+  certificate: "iSTEMLabsAfrica Mid-Level Developer Certificate"
+  delivery: Online and In-Person
+  num_of_lessons: 16
+  image: /assets/images/software-intermediate.jpg
+  lessons_page: http://istemlabs.africa/software-engineering-learning-track
+- name: "Software Engineering: Advanced Course"
+  certificate: "iSTEMLabsAfrica Senior Developer Certificate"
+  delivery: Online and In-Person
+  num_of_lessons: 16
+  image: /assets/images/software-beginner.jpg
+  lessons_page: http://istemlabs.africa/software-engineering-learning-track
