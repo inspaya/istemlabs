@@ -1,6 +1,6 @@
 - title: "<span>S.T.E.M</span> Education <span>Redefined</span>."
   subtitle: We are a resource-center for young learners, aspiring software professionals, makers and more.
-  course_button_label: Course Catalog
+  course_button_label: Browse Catalog
   course_url: /#catalog
-  contact_label: Register for Virtual Open Day
-  contact_url: https://forms.gle/D7gCRN9K9whzsoSv5
+  contact_label: Contact Us
+  contact_url: /contact
