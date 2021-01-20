@@ -1,25 +1,39 @@
 - name: "Programming for Kids"
-  summary: "This course explores the world of computer programming by using simple learning environments and educational toys to teach kids. Upon successful completion, participants are awarded the iSTEMLabsAfrica Kid Coder Certificate"
+  summary: >-
+    This course explores the world of computer programming by using simple learning environments and 
+    educational toys to teach kids. Upon successful completion, participants are awarded the 
+    iSTEMLabsAfrica Kid Coder Certificate
   certificate: "iSTEMLabsAfrica Kid Coder Certificate"
   delivery: Online and In-Person
   num_of_lessons: 10
-  num_of_hours: 13
+  num_of_hours: 12
   fee_per_hour: 1000
   image: /assets/images/programming-for-kids.jpg
   lessons_page: http://istemlabs.africa/stem-learning-track
 
 - name: "Software Engineering: Foundation Course"
-  summary: ""
+  summary: >-
+    This provides a gentle introduction into the world of professional software development by 
+    exposing participants to modern technologies. Concepts taught include, the Linux O/S, 
+    Git and more. Upon successful completion, participants receive the iSTEMLabsAfrica Software Developer Foundations Certificate. 
   certificate: "iSTEMLabsAfrica Software Developer Foundations Certificate"
   delivery: Online and In-Person
-  num_of_lessons: 16
+  num_of_lessons: 5
+  num_of_hours: 10
+  fee_per_hour: 2500
   image: /assets/images/software-beginner.jpg
   lessons_page: http://istemlabs.africa/software-engineering-learning-track
 
 - name: "Software Engineering: Beginner Course I"
+  summary: >-
+    This engages participants with their first real-world software engineering project - a static website. Tools used to build 
+    and publish content online such as Github Pages, Netlify and more. There is also an introduction
+    to Web Applications. Completion of the course leads to the award of the iSTEMLabsAfrica Website Builder Certificate.
   certificate: "iSTEMLabsAfrica Website Builder Certificate"
   delivery: Online and In-Person
-  num_of_lessons: 16
+  num_of_lessons: 4
+  num_of_hours: 15
+  fee_per_hour: 2500
   image: /assets/images/software-beginner.jpg
   lessons_page: http://istemlabs.africa/software-engineering-learning-track
 
