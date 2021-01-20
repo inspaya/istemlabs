@@ -40,7 +40,7 @@ pagination:
        </div>
        <div class="scb-minus-30">
           <div class="row"> 
-             {% for course in site.courses %}
+             {% for course in site.data.courselist %}
                 {% include course-card.html %}
              {% endfor %}
           </div>
