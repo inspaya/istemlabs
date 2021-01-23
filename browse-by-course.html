@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Courses List
-permalink: /course-list
+permalink: /browse-by-course
 ---
 {% include page-title.html %}
 <!-- Start Themeix  Course-->
@@ -15,10 +15,10 @@ permalink: /course-list
                </div>
                <div class="col-md-7">
                   <div class="popular-course-details wow fadeIn" >
-                     <a href="{{course.lessons_url}}">
+                     <a href="{{course.url}}">
                         <h3>{{course.name}}</h3>
                      </a>
-                     <p>{{course.summary}}</p>
+                     <p>{{course.description}}</p>
                      <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
                      <div class="themeix-course-action-2">
                         <ul>
