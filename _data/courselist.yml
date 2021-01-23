@@ -1,14 +1,17 @@
-- name: "Programming for Kids"
+- name: "Programming for Kids I"
   track: "stem"
   description: >-
     Explore the world of computer programming using the Scratch language along with the ELEGOO Smart Car. 
+  overview: >-
+    Explore the world of computer programming using the Scratch language along with the ELEGOO Smart Car. 
+    Students cap the course with a project to solidify their understanding. 
   delivery: Online and In-Person
   num_of_lessons: 10
-  num_of_hours: 12
+  num_of_hours: 13
   fee_per_hour: 1000
   instructor_id: 1
   image: /assets/images/courses/scratch.png
-  url: courses/prog-kids
+  url: prog-kids
 
 - name: "Software Engineering: Foundation"
   track: "software"
@@ -22,7 +25,7 @@
   fee_per_hour: 2500
   instructor_id: 1
   image: /assets/images/courses/git.png
-  url: courses/seng-foundation
+  url: seng-foundation
 
 - name: "Software Engineering: Beginner I"
   track: "software"
@@ -35,31 +38,31 @@
   fee_per_hour: 2500
   instructor_id: 1
   image: /assets/images/courses/seng.png
-  url: courses/seng-beginner
+  url: seng-beginner
 
-- name: "Software Engineering: Beginner II"
-  track: "software"
-  certificate: nil
-  delivery: Online and In-Person
-  num_of_lessons: 16
-  instructor_id: 1
-  image: /assets/images/software-beginner.jpg
-  url: courses/seng-beginner-ii
+# - name: "Software Engineering: Beginner II"
+#   track: "software"
+#   certificate: nil
+#   delivery: Online and In-Person
+#   num_of_lessons: 16
+#   instructor_id: 1
+#   image: /assets/images/software-beginner.jpg
+#   url: seng-beginner-ii
 
-- name: "Software Engineering: Intermediate"
-  track: "software"
-  certificate: "iSTEMLabsAfrica Mid-Level Developer Certificate"
-  delivery: Online and In-Person
-  num_of_lessons: 16
-  instructor_id: 1
-  image: /assets/images/software-intermediate.jpg
-  url: courses/seng-intermediate
+# - name: "Software Engineering: Intermediate"
+#   track: "software"
+#   certificate: "iSTEMLabsAfrica Mid-Level Developer Certificate"
+#   delivery: Online and In-Person
+#   num_of_lessons: 16
+#   instructor_id: 1
+#   image: /assets/images/software-intermediate.jpg
+#   url: seng-intermediate
 
-- name: "Software Engineering: Advanced"
-  track: "software"
-  certificate: "iSTEMLabsAfrica Senior Developer Certificate"
-  delivery: Online and In-Person
-  num_of_lessons: 16
-  instructor_id: 1 
-  image: /assets/images/software-beginner.jpg
-  url: courses/seng-advanced
+# - name: "Software Engineering: Advanced"
+#   track: "software"
+#   certificate: "iSTEMLabsAfrica Senior Developer Certificate"
+#   delivery: Online and In-Person
+#   num_of_lessons: 16
+#   instructor_id: 1 
+#   image: /assets/images/software-beginner.jpg
+#   url: seng-advanced
