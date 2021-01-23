@@ -29,6 +29,7 @@ node_modules/
 *~
 
 # markup
+_site/*
 /build/
 /production/
 .sass-cache
