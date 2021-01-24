@@ -9,7 +9,7 @@ permalink: /stem-learning-track
    <div class="container">
       <div class="row">
          <div class="col-lg-8 col-md-7">
-            {% assign stem_courses = site.courses | where: "track", "stem" %} 
+            {% assign stem_courses = site.courses | where: "track", "stem" | sort: "course_id" %} 
             {% assign url_parts = page.url | split: '/' %}
             {% if url_parts.last != 'courses' %}
               {% assign course_code = url_parts.last %}
