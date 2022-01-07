@@ -43,23 +43,23 @@ The cost of this course is N52,000 (Fifty-Two Thousand Naira Only).
    - Working with Files and Folders
    - File Permissions, Redirection and Piping
 
-1. 1hr - Project A: ???
+1. 1hr - Project A: ??
 
 1. 4hrs - Linux O/S Part II
    - Using Text Editors
    - Environment Variables
    - SSH - Key pairs, ssh connection, scp
-1. 1hr - Project B: ???
+1. 1hr - Project B: ??
 
 1. 4hrs - Version Control with Git
     - Git Everyday commands
-1. 1hr - Project C: ???
+1. 1hr - Project C: ??
 
 1. 4hrs - Git in the Cloud
    - Github.com Setup
    - Bitbucket.org Setup
    - Gitlab.com Setup
-1. 1hr - Project D: ???
+1. 1hr - Project D: ??
 
 1. 4hrs - Introduction to Shell Scripting with Bash
 
