@@ -16,7 +16,7 @@ pagination:
                 </p>
                 <div class="themeix-slider-btn">
                    <a class="themeix-btn btn btn-primary" href="{{slide.course_url}}">{{slide.course_button_label}}</a>
-                   <a class="themeix-btn2 btn btn-primary" href="{{slide.contact_url}}">{{slide.contact_label}}</a>
+                   <a class="themeix-btn2 btn btn-primary" href="{{slide.contact_url}}" target="_blank">{{slide.contact_label}}</a>
                 </div>
              </div>
              {% endfor %}
@@ -32,15 +32,15 @@ pagination:
        <div class="row">
           <div class="col-md-8 m-auto">
              <div class="themeix-section-title text-center">
-                <h2>Course Catalog</h2>
+                <h2>Our Course Catalog<a name="catalog"></a></h2>
                 <div class="section-border"></div>
-                <p>Ready to learn? Select a single module, a set of modules from one or more courses, or an entire track of modules! It's totally up to you!
+                <p>We offer individual lessons, courses comprising one or more lessons, and entire tracks of one or more courses. Lessons are delivered both in-person and online.</p>
              </div>
           </div>
        </div>
        <div class="scb-minus-30">
           <div class="row"> 
-             {% for course in site.courses %}
+             {% for course in site.data.courselist %}
                 {% include course-card.html %}
              {% endfor %}
           </div>
@@ -52,11 +52,12 @@ pagination:
 
  {% include counter-section.html %}
 
+ {% include subscribe.html %}
 <!-- Start Themeix  Feature-->
 <section class="themeix-events section-spacing bg-color">
     <div class="container">
        <div class="themeix-section-title">
-          <h2>Upcoming Event</h2>
+          <h2>Upcoming Event(s)</h2>
           <div class="section-border left-border"></div>
        </div>
        <div class="upcoming-event-container">
@@ -77,7 +78,7 @@ pagination:
                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i>{{event.time}}</li>
                                <li class="list-inline-item"><i class="fa fa-map-marker" aria-hidden="true"></i>{{event.location}}</li>
                             </ul>
-                            <a class="upcoming-event-btn" href="{{event.url}}">register</a>
+                            <a class="upcoming-event-btn" href="{{event.url}}" target="_blank">register</a>
                          </div>
                       </div>
                    </div>
@@ -93,7 +94,8 @@ pagination:
  </section>
  <!-- End Themeix Feature -->
 
-<!-- Start Themeix About Author -->
+<!-- Start Themeix Testimonial -->
+<!--
 <section class="themeix-about-author section-spacing clearfix">
     <div class="container">
        <div class="row">
@@ -125,9 +127,11 @@ pagination:
        </div>
     </div>
  </section>
+-->
  <!-- End Themeix Testimonial -->
 
-<!-- Start Themeix Testimonial-->
+<!-- Start Themeix Instructor-->
+<!--
 <section class="themeix-testimonial section-spacing bg-color clearfix">
     <div class="container">
        <div class="row">
@@ -149,9 +153,10 @@ pagination:
     </div>
  </section>
  <!-- End Themeix Testimonial-->
- 
+ -->
 
 <!-- Start Themeix Feature-->
+<!--
 <section class="latest-news-box section-spacing pt-0 bg-color">
     <div class="container">
        <div class="row">
@@ -178,6 +183,6 @@ pagination:
        </div>
     </div>
  </section>
+-->
  <!-- End Themeix Feature-->
 
-{% include subscribe.html %}

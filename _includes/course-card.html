@@ -1,3 +1,4 @@
+<div><br /></div>
 <div class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}4{% elsif page.url == '/about' %}4{% else %}6{% endif %}">
     <div class="popular-course-post wow fadeIn" data-wow-duration="2s" >
         <div class="popular-course-thumb" style="background-image:url({{course.image}});">
@@ -8,10 +9,19 @@
             </div>
             {% endif %}
         </div>
+            {% case course.track %}
+              {% when 'stem' %}
+                {% assign track = 'stem-learning-track' %}
+              {% when 'software' %}
+                {% assign track = 'software-engineering-learning-track' %}
+              {% when 'maker' %}
+                {% assign track = 'maker' %}
+            {% endcase %}
         <div class="popular-course-content ">
-            <a href="{{course.url}}">
+            <a href="{{ track }}">
                 <h5>{{course.name}}</h5>
             </a>
+            {% comment %}
             <div class="themeix-rating-area">
                 <ul class="popular-course-review list-inline">
                     {% if course.rating == 1 %}
@@ -47,11 +57,11 @@
                      {% endif %}
                 </ul>
             </div>
+            {% endcomment %}
             <p>{{course.description}}</p>
             <div class="popular-course-meta">
                 <div class="themeix-course-action">
-
-                    <a class="popular-course-enroll" href="{{course.url}}">View Now</a>
+                   <a class="popular-course-enroll" href="{{ track }}">View Now</a>
                 </div>
             </div>
         </div>

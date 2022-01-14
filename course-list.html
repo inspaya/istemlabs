@@ -7,7 +7,7 @@ permalink: /course-list
 <!-- Start Themeix  Course-->
 <section class="themeix-Course section-spacing bg-color">
    <div class="container">
-      {% for course in site.courses %}
+      {% for course in site.data.courselist %}
          <div class="popular-course-post2">
             <div class="row">
                <div class="col-md-5">
@@ -15,14 +15,14 @@ permalink: /course-list
                </div>
                <div class="col-md-7">
                   <div class="popular-course-details wow fadeIn" >
-                     <a href="{{course.url}}">
-                        <h3>{{course.title}}</h3>
+                     <a href="{{course.lessons_url}}">
+                        <h3>{{course.name}}</h3>
                      </a>
-                     <p>{{course.description}}</p>
+                     <p>{{course.summary}}</p>
+                     <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
                      <div class="themeix-course-action-2">
                         <ul>
-                           <li><span>{{course.fees}}</span></li>
-                           <li>	<a class="popular-course-enroll" href="{{course.url}}">View Now</a></li>
+                           <li><span><a class="popular-course-enroll" href="{{course.lessons_url}}">View {{ course.num_of_lessons }} Lessons</a></span></li>
                         </ul>
                      </div>
                   </div>
