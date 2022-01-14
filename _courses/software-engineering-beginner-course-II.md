@@ -8,7 +8,7 @@ comments: true
 duration:  ..Hours
 fees: To be announced
 rating: 4
-track: "software engineering"
+track: "software"
 featured: true
 course_id: 12
 course_code: "SENG 104"
