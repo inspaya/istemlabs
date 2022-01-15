@@ -5,7 +5,7 @@ date: 2022-01-07 16:29:37 +0100
 comments: true
 duration: 26 hrs
 rating: 4
-track: "software engineering"
+track: "software"
 featured: true
 course_id: 12
 course_code: "SENG 101"
@@ -42,7 +42,6 @@ The cost of this course is N52,000 (Fifty-Two Thousand Naira Only).
    - Navigating in Linux and common commands
    - Working with Files and Folders
    - File Permissions, Redirection and Piping
-
 1. 1hr - Project A: ??
 
 1. 4hrs - Linux O/S Part II
