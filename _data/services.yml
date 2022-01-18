@@ -1,0 +1,12 @@
+- name: Latest Gadgets
+  subtitle: Education System
+  icon: /assets/images/video-logo.png
+  
+- name: Project-based
+  subtitle: Best LMS System
+  icon: /assets/images/video-logo2.png
+  
+- name: Virtual Classes
+  subtitle: Online Education
+  icon: /assets/images/video-logo3.png
+  
