@@ -25,7 +25,7 @@
   fee_per_hour: 2500
   instructor_id: 1
   image: /assets/images/courses/git.png
-  url: seng-foundation
+  url: /software-engineering-learning-foundation
 
 - name: "Software Engineering: Beginner I"
   track: "software"
@@ -39,6 +39,20 @@
   instructor_id: 1
   image: /assets/images/courses/seng.png
   url: seng-beginner
+
+- name: "Software Engineering: Teams Course"
+  track: "software"
+  description: >-
+    Focuses on introducing the different roles involved in building a successful software project and the need to specialize even though participants have a general understanding of other concepts.
+  certificate: " "
+  delivery: Online and In-Person
+  num_of_lessons: 4
+  num_of_hours: 11
+  fee_per_hour: 2500
+  instructor_id: 1
+  image: /assets/images/courses/seng.png
+  url: software engineering-teams-course
+
 
 # - name: "Software Engineering: Beginner II"
 #   track: "software"

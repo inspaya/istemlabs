@@ -1,7 +1,7 @@
 ---
 layout: course
 name: "Software Engineering: Teams Course"
-date: date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 2022-01-19 13:48:37 +0100
 image: /assets/images/courses/seng.png
 instructor_id: 1
 comments: true
@@ -13,10 +13,11 @@ featured: true
 course_id: 17
 course_code: "SENG-105"
 faculty_notes: " "
+permalink: software-engineering-teams-course
 description: Focuses on introducing the different roles involved in building a successful software project and the need to specialize even though participants have a general understanding of other concepts.
 ---
 
-# Software Engineering: Teams Course (SENG-105)
+# Software Engineering: Teams Course
 
 ## Objective
 Focuses on introducing the different roles involved in building a successful software project and the need to specialize even though participants have a general understanding of other concepts. 
@@ -34,10 +35,10 @@ Upon successful completion of this course, participants will be awarded the “i
 The cost of this course is ………
 
 ## Course Content
-1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check ( FREE) 
-1. 2hrs - Understanding different roles in a Software Project  
-1. 2hrs - Digital Tools(Zoom, Slack, Github, APIs)
+1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
+1. 2hrs - Understanding different roles in a Software Project
+1. 2hrs - Digital Tools (Zoom, Slack, Github, APIs)
 1. 1hr - Project A?
 1. 2hrs - Team tools e.g. Issue Trackers, Support Systems, CI/CD systems, Version Control
 1. 2hrs - Remote Work best practices (2hrs) 
-1. Capstone Project: Apply and interview for a remote job?
+1. 2hrs - Capstone Project
