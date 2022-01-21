@@ -46,9 +46,9 @@
    Participants engage in ideation, design and development of a simple barebones (no-framework used) PHP application connected to a DataBase.
   certificate: "iSTEMLabsAfrica Website Builder Certificate"
   delivery: Online and In-Person
-  num_of_lessons: 
+  num_of_lessons: 9
   fee_per_hour: 2000
-  num_of_hours:
+  num_of_hours: 16
   instructor_id: 1
   image: /assets/images/software-beginner.jpg
   url: software-engineering-beginner-III
