@@ -13,6 +13,7 @@ featured: true
 course_id: "Beginner Course Project"
 course_code: "SENG 109"
 faculty_notes: ""
+permalink: software-engineering-beginner-course-project
 description: This is aimed at solidifying all the concepts that have been learnt in this course. Participants are required to build a fully functional web application that can be simultaneously deployed across multiple cloud platforms. Bonus activity here includes iSTEMLabsAfrica working with participants to secure remote jobs related to what they have learnt/built.
 ---
 
