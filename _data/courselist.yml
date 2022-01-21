@@ -13,7 +13,7 @@
   image: /assets/images/courses/scratch.png
   url: prog-kids
 
-- name: "Software Engineering: Foundation (SENG-101)"
+- name: "Software Engineering: Foundation"
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
@@ -22,12 +22,12 @@
   delivery: Online and In-Person
   num_of_lessons: 5
   num_of_hours: 26
-  fee_per_hour: 2500
+  fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/git.png
-  url: seng-foundation
+  url: /software-engineering-foundation-course
 
-- name: "Software Engineering: Beginner I (SENG-103)"
+- name: "Software Engineering: Beginner I"
   track: "software"
   description: >-
     Learn to build and deploy your first real-world software engineering project - a static website.
@@ -35,12 +35,12 @@
   delivery: Online and In-Person
   num_of_lessons: 5
   num_of_hours: 18
-  fee_per_hour: 2500
+  fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/seng.png
   url: seng-beginner
 
- name: "Software Engineering: Beginner II(SENG-104)"
+- name: "Software Engineering: Beginner II"
   track: "software"
   description: >-
    The course goes beyond technical skills and introduces students to soft skills, business logic, practical aspects of embarking on a real-world software project.
@@ -48,7 +48,7 @@
   delivery: Online and In-Person
   num_of_lessons: 5
   num_of_hours: 14
-  fee_per_hour: 2500
+  fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/seng.png
   url: seng-beginner
@@ -71,17 +71,3 @@
 #   image: /assets/images/software-beginner.jpg
 #   url: seng-advanced
  
-
-- name: "Software Engineering: Beginner V(SENG-108)"
-  track: "software"
-  description: >-
-    Participants are introduced to remote Linux servers and how to deploy their applications to the cloud. We utilize a simple Digital Ocean droplet for the DIY.
-  certificate: ""
-  delivery: Online and In-Person
-  num_of_lessons: 5
-  num_of_hours: 14
-  fee_per_hour: 2500
-  instructor_id: 1
-  image: /assets/images/courses/seng.png
-  url: seng-beginner
-
