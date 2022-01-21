@@ -1,13 +1,13 @@
 ---
 layout: lesson
 name: "Software Engineering"
-date: 2019-01-01 10:59:37 +0600
+date: 2019-01-21 10:59:37 +0600
 image:
 instructor_id: 1
 comments: true
-duration: -- hr
+duration: 20 hr
 fees: To be announced
-rating:
+rating: ""
 track: "Beginner Course I"
 featured: true
 course_id:
