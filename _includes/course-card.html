@@ -18,7 +18,7 @@
                 {% assign track = 'maker' %}
             {% endcase %}
         <div class="popular-course-content ">
-            <a href="{{ track }}">
+            <a href="{{ course.url }}">
                 <h5>{{course.name}}</h5>
             </a>
             {% comment %}
@@ -61,7 +61,7 @@
             <p>{{course.description}}</p>
             <div class="popular-course-meta">
                 <div class="themeix-course-action">
-                   <a class="popular-course-enroll" href="{{ track }}">View Now</a>
+                   <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>
                 </div>
             </div>
         </div>
