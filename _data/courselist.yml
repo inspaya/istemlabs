@@ -40,14 +40,16 @@
   image: /assets/images/courses/seng.png
   url: seng-beginner
 
-# - name: "Software Engineering: Beginner II"
-#   track: "software"
-#   certificate: nil
-#   delivery: Online and In-Person
-#   num_of_lessons: 16
-#   instructor_id: 1
-#   image: /assets/images/software-beginner.jpg
-#   url: seng-beginner-ii
+- name: "Software Engineering: Beginner III"
+  track: "software"
+  certificate: nil
+  delivery: Online and In-Person
+  num_of_lessons: 9
+  num_of_hours: 16
+  fee_per_hour: 2000
+  instructor_id: 1
+  image: /assets/images/courses/seng.png
+  url: software-engineering-beginner-III
 
 # - name: "Software Engineering: Intermediate"
 #   track: "software"

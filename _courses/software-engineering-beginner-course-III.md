@@ -5,14 +5,14 @@ date: 2022-01-14 04:30:37 +0600
 image:
 instructor_id: 1
 comments: true
-duration: -- hr
-fees: To be announced
-rating:
+duration: 16 hr
+rating: 4
 track: "Software"
 featured: true
 course_id: "Beginner Course III"
 course_code: "SENG 106"
 faculty_notes: ""
+permalink: software-engineering-beginner-III
 description: Participants engage in ideation, design and development of a simple barebones (no-framework used) PHP application connected to a DataBase.
 ---
 
