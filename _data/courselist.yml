@@ -40,6 +40,19 @@
   image: /assets/images/courses/seng.png
   url: seng-beginner
 
+- name: "Software Engineering: Beginner V"
+  track: "software"
+  description: >-
+    Participants are introduced to remote Linux servers and how to deploy their applications to the cloud. We utilize a simple Digital Ocean droplet for the DIY 
+  certificate: " "
+  delivery: Online and In-Person
+  num_of_lessons: 5
+  num_of_hours: 14
+  fee_per_hour: 2000
+  instructor_id: 1
+  image: /assets/images/courses/seng.png
+  url: /sofware-engineering-beginner-V
+
 # - name: "Software Engineering: Beginner II"
 #   track: "software"
 #   certificate: nil
