@@ -51,7 +51,7 @@
   fee_per_hour: 2500
   instructor_id: 1
   image: /assets/images/courses/seng.png
-  url: software engineering-teams-course
+  url: software-engineering-teams-course
 
 
 # - name: "Software Engineering: Beginner II"
