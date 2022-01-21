@@ -59,6 +59,7 @@
             </div>
             {% endcomment %}
             <p>{{course.description}}</p>
+            <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
             <div class="popular-course-meta">
                 <div class="themeix-course-action">
                    <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>
