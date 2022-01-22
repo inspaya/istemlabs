@@ -40,14 +40,19 @@
   image: /assets/images/courses/seng.png
   url: seng-beginner
 
-# - name: "Software Engineering: Beginner II"
-#   track: "software"
-#   certificate: nil
-#   delivery: Online and In-Person
-#   num_of_lessons: 16
-#   instructor_id: 1
-#   image: /assets/images/software-beginner.jpg
-#   url: seng-beginner-ii
+- name: "Software Engineering: Beginner Course Project"
+  track: "software"
+  description: >-
+    This is aimed at solidifying all the concepts that have been learnt in this course.
+    Participants are required to build a fully functional web application that can be simultaneously deployed across multiple cloud platforms. 
+    Bonus activity here includes iSTEMLabsAfrica working with participants to secure remote jobs related to what they have learnt/built.
+  certificate: nil
+  delivery: Online and In-Person
+  num_of_lessons: 5
+  fee_per_hour: 2000
+  instructor_id: 1
+  image: /assets/images/courses/seng.png
+  url: software-engineering-beginner-course-project
 
 # - name: "Software Engineering: Intermediate"
 #   track: "software"
