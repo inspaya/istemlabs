@@ -25,7 +25,7 @@
   fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/git.png
-  url: /software-engineering-foundation-course
+  url: /software-engineering-courses/foundation
 
 - name: "Software Engineering: Beginner I"
   track: "software"
