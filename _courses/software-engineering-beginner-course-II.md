@@ -26,11 +26,17 @@ The second part of the beginner course focuses on necessary design required befo
 
 ## Duration
 
-This course runs for a total duration of ….. hours (.... paid hours + 1 FREE hour).
+This course runs for a total duration of 11 hours (10 paid hours + 1 FREE hour).
 
 ## Prerequisites
 
-To participate in this course, students only need to be familiar with how to operate a computer system, use the input devices such as keyboard and mouse, as well as be familiar with how to access information on the Internet.
+To participate in this course, students must demonstrate competence in the following concepts:
+
+1. Using the command line/terminal/shell
+1. Using a text editor and/or I.D.E
+1. Using Git (i.e. everyday) commands and setting up a repository on Github.com, Bitbucket.org, Gitlab.com or similar cloud-based VCS platform.
+1. Building a functional website with HTML, CSS and JavaScript
+1. Deploying web applications or sites
 
 ## Certification
 
@@ -43,22 +49,26 @@ The cost of this course is ……
 
 1. 2hrs - Software Project Ideation
 
-1. 2hrs - Project requirements(relevance, knowledge, access of target, delivery mechanism)
+1. 2hrs - Project requirements
+   -Relevance,
+   -Knowledge,
+   -Access of target
+   -Delivery mechanism
 
-1. 1hr - Project A: ???
+1. 1hr - Project A: Student is tasked with
 
 1. 2hrs - Development Tools & Technology
 
 1. 2hrs - Software Project Cost Estimation
 
-1. 1hr - Project B???
+1. 1hr - Project B: Student is tasked with
 
 1. 2hrs - Software Project Proposal Development/Presentation
 
-1. Giffy, Github, MadeWithGoogle/Powerpoint, wireframing
+   -Giffy, Github, MadeWithGoogle/Powerpoint, wireframing
 
-1. StackOverflow Developer Survey
+   -StackOverflow Developer Survey
 
-1. General overview of server-side languages, back-end systems
+   -General overview of server-side languages, back-end systems
 
 1. 2hrs - Capstone Project: ???
