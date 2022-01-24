@@ -26,7 +26,7 @@ Deeper dive into the world of testing code.
 
 ## Duration
 
-This course runs for a total duration of ….. hours (.... paid hours + 1 FREE hour).
+This course runs for a total duration of 20 hours (19 paid hours + 1 FREE hour).
 
 ## Prerequisites
 
