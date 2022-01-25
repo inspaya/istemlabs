@@ -8,7 +8,7 @@ comments: true
 duration: 24 hr
 fees: 46000
 rating: ""
-track: "Beginner Course I"
+track: "software"
 featured: true
 course_id:
 course_code: "SENG 103"
@@ -25,13 +25,16 @@ The first part of the beginner course builds on previous knowledge gained in the
 This course runs for a total duration of 24 hours (23 paid hours + 1 FREE hour).
 
 ## Prerequisites
-To participate in this course, students need to be familiar with how to use the command line, version control system as well as ……
+To participate in this course, students must demonstrate competence in the following concepts:
+  1. Using the command line/terminal/shell
+  2. Using a text editor and/or I.D.E
+  3. Using Git (i.e. everyday) commands and setting up a repository on Github.com, Bitbucket.org, Gitlab.com or similar cloud-based VCS platform.
 
 ## Certification
 Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: Beginner Course I” certificate.
 
 ## Cost
-The cost of this course is Forty-Six Thousand Naira Only
+The cost of this course is Forty-Six Thousand Naira Only.
 
 ## Course Content
  1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
