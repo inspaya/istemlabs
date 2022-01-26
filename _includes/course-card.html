@@ -16,6 +16,10 @@
         {% assign track = 'stem-learning-track' %}
         {% when 'software' %}
         {% assign track = 'software-engineering-learning-track' %}
+        {% comment %}
+        {% assign tracklink = {{course.baseurl | append course.permalink}} %}
+        {% endcomment %}
+
         {% when 'maker' %}
         {% assign track = 'maker' %}
         {% endcase %}
