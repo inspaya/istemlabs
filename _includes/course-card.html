@@ -1,7 +1,11 @@
+<link rel="stylesheet" href="/assets/css/course_card.css">
+
+
 <div><br /></div>
+
 <div
-    class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}4{% elsif page.url == '/about' %}4{% else %}6{% endif %}">
-    <div class="popular-course-post wow fadeIn" data-wow-duration="2s">
+    class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}3{% elsif page.url == '/about' %}4{% elsif page.url == '/software-engineering-track' %}4{% else %}6{% endif %}">
+    <div class="cardbox popular-course-post wow fadeIn" data-wow-duration="2s">
         <div class="popular-course-thumb" style="background-image:url({{course.image}});">
             {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
             {% if instructor %}
@@ -64,13 +68,18 @@
                 </ul>
             </div>
             {% endcomment %}
+
             <p>{{course.description}}</p>
-            <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
-            <div class="popular-course-meta">
-                <div class="themeix-course-action">
-                    <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>
+
+            <div class="cardfooter">
+                <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
+                <div class="popular-course-meta">
+                    <div class="themeix-course-action">
+                        <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>
+                    </div>
                 </div>
             </div>
+
         </div>
     </div>
 </div>

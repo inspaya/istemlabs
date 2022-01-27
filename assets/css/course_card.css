@@ -1,0 +1,14 @@
+/* More CSS for Course card */
+.cardbox {
+    position: relative;
+    min-height: 540px;
+}
+
+.cardfooter {
+    position: absolute;
+    bottom: 0;
+}
+
+p {
+    font-size: smaller;
+}
