@@ -46,12 +46,12 @@
     Participants engage in ideation, design and development of a simple barebones (no-framework used) PHP application connected to a Database.
   certificate: "iSTEMLabsAfrica Software Engineering: Beginner Course III Certificate."
   delivery: Online and In-Person
-  num_of_lessons: 9
-  num_of_hours: 17
+  num_of_lessons: 4
+  num_of_hours: 18
   fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/seng.png
-  url: software-engineering-beginner-III
+  url: software-engineering-track/beginner-III
 
 # - name: "Software Engineering: Intermediate"
 #   track: "software"
