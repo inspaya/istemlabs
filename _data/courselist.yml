@@ -27,18 +27,18 @@
   image: /assets/images/courses/git.png
   url: seng-foundation
 
-- name: "Software Engineering: Beginner I"
-  track: "software"
-  description: >-
-    Learn to build and deploy your first real-world software engineering project - a static website.
-  certificate: "iSTEMLabsAfrica Website Builder Certificate"
-  delivery: Online and In-Person
-  num_of_lessons: 4
-  num_of_hours: 15
-  fee_per_hour: 2500
-  instructor_id: 1
-  image: /assets/images/courses/seng.png
-  url: seng-beginner
+# - name: "Software Engineering: Beginner I"
+#  track: "software"
+#  description: >-
+#    Learn to build and deploy your first real-world software engineering project - a static website.
+#  certificate: "iSTEMLabsAfrica Website Builder Certificate"
+#  delivery: Online and In-Person
+#  num_of_lessons: 4
+#  num_of_hours: 15
+#  fee_per_hour: 2500
+#  instructor_id: 1
+#  image: /assets/images/courses/seng.png
+#  url: seng-beginner
 
 - name: "Software Engineering: Beginner Course Project"
   track: "software"
@@ -52,7 +52,7 @@
   fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/seng.png
-  url: software-engineering-beginner-course-project
+  url: software-engineering-track/beginner-course-project
 
 # - name: "Software Engineering: Intermediate"
 #   track: "software"

@@ -1,7 +1,7 @@
 ---
 layout: lesson
 name: "Software Engineering"
-date: 2022-01-17 03:00:37 +0600 
+date: 2022-01-27 03:00:37 +0600 
 image:
 instructor_id: 1
 comments: true
@@ -13,7 +13,7 @@ featured: true
 course_id: "Beginner Course Project"
 course_code: "SENG 109"
 faculty_notes: ""
-permalink: software-engineering-beginner-course-project
+permalink: software-engineering-track/beginner-course-project
 description: This is aimed at solidifying all the concepts that have been learnt in this course. Participants are required to build a fully functional web application that can be simultaneously deployed across multiple cloud platforms. Bonus activity here includes iSTEMLabsAfrica working with participants to secure remote jobs related to what they have learnt/built.
 ---
 
@@ -31,5 +31,14 @@ Upon successful completion of this course, participants will be awarded the “i
 
 ## Cost
 The cost of this course is 20000 (Twenty Thousand Naira Only)
+
+## Course Content
+ 1. 2hrs- Build a correctly styled functional website and deploy it
+ 1. 2hrs- Presentation on system design ideation for the above website
+ 1. 2hrs- Build a PHP application connected to a database for the website
+ 1. 2hrs- Testing 
+ 1. 2hrs - Deploy your application to the cloud
+ 1. Bonus - Remote job support
+
 
 
