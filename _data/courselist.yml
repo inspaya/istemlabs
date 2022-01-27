@@ -31,14 +31,14 @@
   track: "software"
   description: >-
     Learn to build and deploy your first real-world software engineering project - a static website.
-  certificate: "iSTEMLabsAfrica Website Builder Certificate"
+  certificate: "iSTEMLabsAfrica Software Engineering: Beginner Course I Certificate"
   delivery: Online and In-Person
-  num_of_lessons: 8
+  num_of_lessons: 4
   num_of_hours: 24
   fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/seng.png
-  url: software-engineering-beginner-I
+  url: software-engineering-track/beginner-course-I
 
 - name: "Software Engineering: Beginner III"   
   track: "software"

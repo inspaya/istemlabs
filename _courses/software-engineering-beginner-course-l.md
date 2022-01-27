@@ -1,7 +1,7 @@
 ---
 layout: lesson
 name: "Software Engineering"
-date: 2019-01-21 10:59:37 +0600
+date: 2019-01-23 10:59:37 +0600
 image:
 instructor_id: 1
 comments: true
@@ -10,10 +10,10 @@ fees: 46000
 rating: ""
 track: "software"
 featured: true
-course_id:
+course_id: Beginner-Course-I
 course_code: "SENG 103"
 faculty_notes: ""
-permalink: software-engineering-beginner-I
+permalink: software-engineering-track/beginner-course-I
 description: The first part of the beginner course builds on previous knowledge gained in the foundation course while also helping students understand the key elements of software development for the web. Students are engaged in real-world software projects with the aim of publishing their first creation.
 ---
 
@@ -76,5 +76,5 @@ The cost of this course is Forty-Six Thousand Naira Only.
       - Programming Languages
       - Database Servers
       - REST API
- 1. 2hrs - Capstone Project: Build a Static Website and Deploy it.
+ 1. 2hrs - Capstone Project: Build a Static Website and Deploy it
  
