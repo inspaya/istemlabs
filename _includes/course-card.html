@@ -4,7 +4,7 @@
 <div><br /></div>
 
 <div
-    class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}3{% elsif page.url == '/about' %}4{% elsif page.url == '/software-engineering-track' %}4{% else %}6{% endif %}">
+    class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}3{% elsif page.url == '/about' %}4{% elsif page.url == '/software-engineering-track' %}3{% else %}6{% endif %}">
     <div class="cardbox popular-course-post wow fadeIn" data-wow-duration="2s">
         <div class="popular-course-thumb" style="background-image:url({{course.image}});">
             {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
@@ -69,7 +69,7 @@
             </div>
             {% endcomment %}
 
-            <p>{{course.description}}</p>
+            <p class="course_description">{{course.description}}</p>
 
             <div class="cardfooter">
                 <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
