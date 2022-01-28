@@ -1,4 +1,5 @@
 - name: "Programming for Kids I"
+  id: 0
   track: "stem"
   description: >-
     Explore the world of computer programming using the Scratch language along with the ELEGOO Smart Car. 
@@ -14,6 +15,7 @@
   url: prog-kids
 
 - name: "Software Engineering: Foundation"
+  id: 1
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
@@ -28,6 +30,7 @@
   url:  /software-engineering-track/foundation-course
 
 - name: "Software Engineering: Beginner I"
+  id: 2
   track: "software"
   description: >-
     Learn to build and deploy your first real-world software engineering project - a static website.
@@ -42,6 +45,7 @@
 
 - name: "Software Engineering: Beginner II"
   track: "software"
+  id: 3
   description: >-
    The course goes beyond technical skills and introduces students to soft skills, business logic, practical aspects of embarking on a real-world software project.
   certificate: ""

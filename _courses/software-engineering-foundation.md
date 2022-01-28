@@ -7,7 +7,7 @@ duration: 26 hrs
 rating: 4
 track: "software"
 featured: true
-course_id: 12
+course_id: 1
 course_code: "SENG 101"
 faculty_notes: ""
 description: "The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers."
