@@ -6,7 +6,7 @@ layout: default
 <section class="themeix-course-info section-spacing ">
     <div class="container">
         <div class="course-info-wrapper d-flex align-items-stretch themeix">
-            {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
+            {% assign instructor = site.instructors | where: 'instructor_id', page.instructor_id | first %}
             {% if instructor %}
             <div class="course-info themeix wow fadeIn" data-wow-duration="2s">
                 <div class="course-logo instructor"><img src="{{instructor.image}}" alt="{{instructor.name}}" /></div>
