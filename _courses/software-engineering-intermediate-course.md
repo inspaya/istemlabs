@@ -42,28 +42,28 @@ The cost of this course is ………
 
 ## Course Content
 
-    1.  1hr -  iSTEMLabsAfrica Digital Awareness Health Check (1 hr FREE)
+1.  1hr - iSTEMLabsAfrica Digital Awareness Health Check (1 hr FREE)
 
-    1.  3hrs -  Introduction to Python (3hrs)
+1.  3hrs - Introduction to Python (3hrs)
 
-    1.  1hr - Project A?
+1.  1hr - Project A?
 
-    1.  4hrs - Data Structures in Python (3hrs)
+1.  4hrs - Data Structures in Python (3hrs)
 
-    1.  1hr - Project B?
+1.  1hr - Project B?
 
-    1.  4hrs -  Control, Repetition and More (3hrs)
+1.  4hrs - Control, Repetition and More (3hrs)
 
-    1.  1hr - Project C?
+1.  1hr - Project C?
 
-    1.  6hrs - Object-Oriented Programming (OOP) in Python (5hrs)
+1.  6hrs - Object-Oriented Programming (OOP) in Python (5hrs)
 
-    1.  1hr - Project D?
+1.  1hr - Project D?
 
-    1. 4hrs - Introduction to REST APIs/JSON (3hrs)
+1.  4hrs - Introduction to REST APIs/JSON (3hrs)
 
-    1. 1hr - Project E?
+1.  1hr - Project E?
 
-    1. 6hrs - Using Development Frameworks (Django, Flask, Django REST API) (5hrs)
+1.  6hrs - Using Development Frameworks (Django, Flask, Django REST API) (5hrs)
 
-    1. Capstone Project?
+1.  Capstone Project?
