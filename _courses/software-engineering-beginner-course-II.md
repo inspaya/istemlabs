@@ -26,7 +26,7 @@ The second part of the beginner course focuses on necessary design required befo
 
 ## Duration
 
-This course runs for a total duration of 11 hours (10 paid hours + 1 FREE hour).
+This course runs for a total duration of 13 hours (12 paid hours + 1 FREE hour).
 
 ## Prerequisites
 
@@ -40,7 +40,10 @@ To participate in this course, students must demonstrate competence in the follo
 
 ## Certification
 
-Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: Beginner Course II” certificate.Cost
+Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: Beginner Course II” certificate.
+
+## Cost
+
 The cost of this course is ……
 
 ## Course Content
@@ -50,10 +53,14 @@ The cost of this course is ……
 1. 2hrs - Software Project Ideation
 
 1. 2hrs - Project requirements
-   -Relevance,
-   -Knowledge,
-   -Access of target
-   -Delivery mechanism
+
+   - Relevance
+
+   - Knowledge
+
+   - Access of target
+
+   - Delivery mechanism
 
 1. 1hr - Project A: Student is tasked with
 
@@ -65,10 +72,10 @@ The cost of this course is ……
 
 1. 2hrs - Software Project Proposal Development/Presentation
 
-   -Giffy, Github, MadeWithGoogle/Powerpoint, wireframing
+   - Giffy, Github, MadeWithGoogle/Powerpoint, wireframing
 
-   -StackOverflow Developer Survey
+   - StackOverflow Developer Survey
 
-   -General overview of server-side languages, back-end systems
+   - General overview of server-side languages, back-end systems
 
 1. 2hrs - Capstone Project: ???
