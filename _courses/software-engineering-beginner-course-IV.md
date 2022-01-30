@@ -42,28 +42,19 @@ The cost of this course is ………
 
 ## Course Content
 
-    1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (1 hr FREE)
-
-    1. 1hr- Overview
-        -Need for testing
-        -Types of tests
-        -Common Frameworks per tech stack
-
-    1. 3hrs - Unit Testing
-        -PHP Unit Testing Example
-        -Python Unit Testing Example
-        -Node.js Unit Testing Example
-
-    1. 1hr - Project A?
-
-    1. 2hrs - Behavioral Testing
-
-    1. 2hrs - Automate Testing with CI/CD systems
-
-    1. 1hr - Project B?
-
-    1. 2hrs - Introduction to Alerts, Notifications, Monitoring
-
-    1. 2hrs - Testing Best-Practices
-
-    1. 2hrs - Capstone Project?
+1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (1 hr FREE)
+1. 1hr- Overview
+   - Need for testing
+   - Types of tests
+   - Common Frameworks per tech stack
+1. 3hrs - Unit Testing
+   - PHP Unit Testing Example
+   - Python Unit Testing Example
+   - Node.js Unit Testing Example
+1. 1hr - Project A?
+1. 2hrs - Behavioral Testing
+1. 3hrs - Automate Testing with CI/CD systems
+1. 1hr - Project B?
+1. 2hrs - Introduction to Alerts, Notifications, Monitoring
+1. 3hrs - Testing Best-Practices
+1. 2hrs - Capstone Project?
