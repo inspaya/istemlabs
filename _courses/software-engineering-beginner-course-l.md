@@ -7,10 +7,10 @@ instructor_id: 1
 comments: true
 duration: 24 hr
 fees: 46000
-rating: ""
+rating: 4
 track: "software"
 featured: true
-course_id: Beginner-Course-I
+course_id: 3
 course_code: "SENG 103"
 faculty_notes: ""
 permalink: software-engineering-track/beginner-course-I

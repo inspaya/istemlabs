@@ -1,5 +1,5 @@
 <div><br /></div>
-<div class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}4{% elsif page.url == '/about' %}4{% else %}6{% endif %}">
+<div class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}3{% elsif page.url == '/about' %}3{% else %}6{% endif %}">
     <div class="popular-course-post wow fadeIn" data-wow-duration="2s" >
         <div class="popular-course-thumb" style="background-image:url({{course.image}});">
             {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
@@ -59,7 +59,7 @@
             <p>{{course.description}}</p>
             <div class="popular-course-meta">
                 <div class="themeix-course-action">
-                   <!--<a class="popular-course-enroll" href="{{ course.url }}">View Now</a>-->
+                    <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>-->
                 </div>
             </div>
         </div>

@@ -1,4 +1,5 @@
-- name: "Programming for Kids I"
+#
+# name: "Programming for Kids I"
   track: "stem"
   description: >-
     Explore the world of computer programming using the Scratch language along with the ELEGOO Smart Car. 
@@ -24,8 +25,9 @@
   num_of_hours: 10
   fee_per_hour: 2500
   instructor_id: 1
-  image: /assets/images/courses/git.png
-  url: seng-foundation
+#  image: /assets/images/courses/git.png
+#  url: seng-foundation
+#
 
 - name: "Software Engineering: Beginner I"
   track: "software"
@@ -40,7 +42,8 @@
   image: /assets/images/courses/seng.png
   url: software-engineering-track/beginner-course-I
 
-- name: "Software Engineering: Beginner III"   
+#
+#- name: "Software Engineering: Beginner III"   
   track: "software"
   description: >- 
    Participants engage in ideation, design and development of a simple barebones (no-framework used) PHP application connected to a DataBase.
@@ -51,7 +54,7 @@
   num_of_hours: 16
   instructor_id: 1
   image: /assets/images/software-beginner.jpg
-  url: software-engineering-beginner-III
+#  url: software-engineering-beginner-III
 
 # - name: "Software Engineering: Intermediate"
 #   track: "software"

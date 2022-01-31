@@ -1,5 +1,7 @@
+
+<link rel="stylesheet" href="courseI.css">
 <div><br /></div>
-<div class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}4{% elsif page.url == '/about' %}4{% else %}6{% endif %}">
+<div class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}4{% elsif page.url == '/about' %}4 {% elsif page.url == '/index.html' %}4{% elsif page.url == '/software-engineering-track' %}3{% else %}6{% endif %}"></div>
     <div class="popular-course-post wow fadeIn" data-wow-duration="2s" >
         <div class="popular-course-thumb" style="background-image:url({{course.image}});">
             {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
@@ -13,7 +15,7 @@
               {% when 'stem' %}
                 {% assign track = 'stem-learning-track' %}
               {% when 'software' %}
-                {% assign track = 'software-engineering-learning-track' %}
+                {% assign track = 'software-engineering-track' %}
               {% when 'maker' %}
                 {% assign track = 'maker' %}
             {% endcase %}
