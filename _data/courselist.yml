@@ -1,4 +1,5 @@
-- name: "Programming for Kids I"
+- name: "Software Programming for Kids I"
+  id: 0
   track: "stem"
   description: >-
     Explore the world of computer programming using the Scratch language along with the ELEGOO Smart Car. 
@@ -14,40 +15,47 @@
   url: prog-kids
 
 - name: "Software Engineering: Foundation"
+  id: 1
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
     the tools & technologies. 
-  certificate: "iSTEMLabsAfrica Software Developer Foundations Certificate"
+  certificate: "iSTEMLabsAfrica Software Developer Foundation Certificate"
   delivery: Online and In-Person
   num_of_lessons: 5
-  num_of_hours: 10
-  fee_per_hour: 2500
-  instructor_id: 1
+  num_of_hours: 26
+  fee_per_hour: 2000
+  instructor_id: 2
   image: /assets/images/courses/git.png
-  url: seng-foundation
+  url:  /software-engineering-track/foundation-course
 
 - name: "Software Engineering: Beginner I"
+  id: 2
   track: "software"
   description: >-
     Learn to build and deploy your first real-world software engineering project - a static website.
   certificate: "iSTEMLabsAfrica Website Builder Certificate"
   delivery: Online and In-Person
-  num_of_lessons: 4
-  num_of_hours: 15
-  fee_per_hour: 2500
+  num_of_lessons: 5
+  num_of_hours: 18
+  fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/seng.png
   url: seng-beginner
 
-# - name: "Software Engineering: Beginner II"
-#   track: "software"
-#   certificate: nil
-#   delivery: Online and In-Person
-#   num_of_lessons: 16
-#   instructor_id: 1
-#   image: /assets/images/software-beginner.jpg
-#   url: seng-beginner-ii
+- name: "Software Engineering: Beginner II"
+  track: "software"
+  id: 3
+  description: >-
+   The course goes beyond technical skills and introduces students to soft skills, business logic, practical aspects of embarking on a real-world software project.
+  certificate: ""
+  delivery: Online and In-Person
+  num_of_lessons: 5
+  num_of_hours: 14
+  fee_per_hour: 2000
+  instructor_id: 1
+  image: /assets/images/courses/seng.png
+  url: seng-beginner
 
 # - name: "Software Engineering: Intermediate"
 #   track: "software"
@@ -66,3 +74,4 @@
 #   instructor_id: 1 
 #   image: /assets/images/software-beginner.jpg
 #   url: seng-advanced
+ 

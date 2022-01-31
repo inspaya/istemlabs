@@ -1,24 +1,34 @@
+<link rel="stylesheet" href="/assets/css/course_card.css">
+
+
 <div><br /></div>
-<div class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}4{% elsif page.url == '/about' %}4{% else %}6{% endif %}">
-    <div class="popular-course-post wow fadeIn" data-wow-duration="2s" >
+
+<div
+    class="col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}3{% elsif page.url == '/about' %}4{% elsif page.url == '/software-engineering-track' %}3{% else %}6{% endif %}">
+    <div class="cardbox popular-course-post wow fadeIn" data-wow-duration="2s">
         <div class="popular-course-thumb" style="background-image:url({{course.image}});">
             {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
             {% if instructor %}
-            <div class="popular-course-teacher">  
-                <img data-toggle="tooltip" data-placement="top" title="{{instructor.name}}" src="{{instructor.image}}" alt="{{instructor.name}}" />
+            <div class="popular-course-teacher">
+                <img data-toggle="tooltip" data-placement="top" title="{{instructor.name}}" src="{{instructor.image}}"
+                    alt="{{instructor.name}}" />
             </div>
             {% endif %}
         </div>
-            {% case course.track %}
-              {% when 'stem' %}
-                {% assign track = 'stem-learning-track' %}
-              {% when 'software' %}
-                {% assign track = 'software-engineering-learning-track' %}
-              {% when 'maker' %}
-                {% assign track = 'maker' %}
-            {% endcase %}
+        {% case course.track %}
+        {% when 'stem' %}
+        {% assign track = 'stem-learning-track' %}
+        {% when 'software' %}
+        {% assign track = 'software-engineering-learning-track' %}
+        {% comment %}
+        {% assign tracklink = {{course.baseurl | append course.permalink}} %}
+        {% endcomment %}
+
+        {% when 'maker' %}
+        {% assign track = 'maker' %}
+        {% endcase %}
         <div class="popular-course-content ">
-            <a href="{{ track }}">
+            <a href="{{ course.url }}">
                 <h5>{{course.name}}</h5>
             </a>
             {% comment %}
@@ -26,44 +36,50 @@
                 <ul class="popular-course-review list-inline">
                     {% if course.rating == 1 %}
                     <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                     {% elsif course.rating == 2 %}
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                     {% elsif course.rating == 3 %}
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                     {% elsif course.rating == 4 %}
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                     {% elsif course.rating == 5 %}
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                        <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
-                     {% endif %}
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    {% elsif course.rating == 2 %}
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    {% elsif course.rating == 3 %}
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    {% elsif course.rating == 4 %}
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star-o" aria-hidden="true"></i></li>
+                    {% elsif course.rating == 5 %}
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    <li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i></li>
+                    {% endif %}
                 </ul>
             </div>
             {% endcomment %}
-            <p>{{course.description}}</p>
-            <div class="popular-course-meta">
-                <div class="themeix-course-action">
-                   <a class="popular-course-enroll" href="{{ track }}">View Now</a>
+
+            <p class="course_description">{{course.description}}</p>
+
+            <div class="cardfooter">
+                <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
+                <div class="popular-course-meta">
+                    <div class="themeix-course-action">
+                        <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>
+                    </div>
                 </div>
             </div>
+
         </div>
     </div>
 </div>
