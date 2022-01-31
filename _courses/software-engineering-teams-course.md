@@ -13,8 +13,8 @@ featured: true
 course_id: 17
 course_code: "SENG-105"
 faculty_notes: " "
-permalink: software-engineering-teams-course
-description: Focuses on introducing the different roles involved in building a successful software project and the need to specialize even though participants have a general understanding of other concepts.
+permalink: software-engineering-track/teams-course
+description: The course focuses on introducing the different roles involved in building a successful software project and the need to specialize even though participants have a general understanding of other concepts.
 ---
 
 # Software Engineering: Teams Course
@@ -23,7 +23,7 @@ description: Focuses on introducing the different roles involved in building a s
 Focuses on introducing the different roles involved in building a successful software project and the need to specialize even though participants have a general understanding of other concepts. 
 
 ## Duration
-This course runs for a total duration of ….. hours (.... paid hours + 1 FREE hour).
+This course runs for a total duration of 12 hours ( 11 paid hours + 1 FREE hour).
 
 ## Prerequisites
 To participate in this course, students only need to be familiar with how to operate a computer system, use the input devices such as keyboard and mouse, as well as be familiar with how to access information on the Internet.
@@ -32,7 +32,7 @@ To participate in this course, students only need to be familiar with how to ope
 Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: Teams Course ” certificate.
 
 ## Cost
-The cost of this course is ………
+The cost of this course is N22,000 (Twenty-two Thousand Naira Only)
 
 ## Course Content
 1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
