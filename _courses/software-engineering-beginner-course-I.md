@@ -1,22 +1,23 @@
 ---
-layout: lesson
-name: "Software Engineering"
+layout: course
+name: "Software Engineering: Beginner I"
 date: 2019-01-23 10:59:37 +0600
-image:
-instructor_id: 1
+image: /assets/images/courses/seng.png
+instructor_id: 2
 comments: true
-duration: 24 hr
+duration: 23 hrs
 fees: 46000
 rating: 4
 track: "software"
 featured: true
-course_id: 3
+course_id: 4
 course_code: "SENG 103"
 faculty_notes: ""
-permalink: software-engineering-track/beginner-course-I
+permalink: /software-engineering-track/beginner-course-I
 description: The first part of the beginner course builds on previous knowledge gained in the foundation course while also helping students understand the key elements of software development for the web. Students are engaged in real-world software projects with the aim of publishing their first creation.
 ---
 
+# Software Engineering: Beginner Course I
 
 ## Objective
 The first part of the beginner course builds on previous knowledge gained in the foundation course while also helping students understand the key elements of software development for the web. Students are engaged in real-world software projects with the aim of publishing their first creation.
