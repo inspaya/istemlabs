@@ -9,12 +9,12 @@ layout: default
       <div class="row">
          <div class="col-md-4">
             <div class="instructor-image">
-                  <img src="{{instructor.image}}" alt="{{instructor.name}}">
+               <img src="{{instructor.image}}" alt="{{instructor.name}}">
             </div>
          </div>
          <div class="col-md-8">
             <div class="instructors-details ">
-               <h2>Hi i am <a href="{{instructor.url}}">{{instructor.name}}</a></h2>
+               <h2>Hi, I am <a href="{{instructor.url}}">{{instructor.name}}</a></h2>
                <h6>{{instructor.designation}}</h6>
                <p>{{instructor.bio}}
                </p>
@@ -23,7 +23,8 @@ layout: default
                   <li class="list-inline-item">
                      <h4>
                         {% assign counter = 0 %}
-                        {% assign instructor_courses = site.courses | where: 'instructor_id', page.instructor_id %}
+                        {% assign instructor_courses = site.data.courselist | where: 'instructor_id', page.instructor_id
+                        %}
                         {% for item in instructor_courses %}
                         {% assign counter=counter | plus:1 %}
                         {% endfor %}
@@ -70,15 +71,18 @@ layout: default
                </ul>
                <ul class="instructors-details-social list-inline">
                   {% if instructor.facebook_url %}
-                  <li class="list-inline-item"><a href="{{instructor.facebook_url}}"><i class="fa fa-facebook"></i></a></li>
+                  <li class="list-inline-item"><a href="{{instructor.facebook_url}}"><i class="fa fa-facebook"></i></a>
+                  </li>
                   {% endif %}
 
                   {% if instructor.twitter_url %}
-                  <li class="list-inline-item"><a href="{{instructor.twitter_url}}"><i class="fa fa-twitter"></i></a></li>
+                  <li class="list-inline-item"><a href="{{instructor.twitter_url}}"><i class="fa fa-twitter"></i></a>
+                  </li>
                   {% endif %}
 
                   {% if instructor.instagram_url %}
-                  <li class="list-inline-item"><a href="{{instructor.instagram_url}}"><i class="fa fa-instagram"></i></a>
+                  <li class="list-inline-item"><a href="{{instructor.instagram_url}}"><i
+                           class="fa fa-instagram"></i></a>
                   </li>
                   {% endif %}
 
@@ -91,7 +95,7 @@ layout: default
       </div>
       <div class="row">
          {% for course in instructor_courses %}
-            {% include course-card.html %}
+         {% include course-card.html %}
          {% endfor %}
       </div>
    </div>

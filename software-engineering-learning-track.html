@@ -3,18 +3,20 @@ layout: default
 title: Software Engineering Learning Track
 permalink: /software-engineering-track
 ---
-{% include page-title.html %}     
-      <!-- Start Themeix  Course-->
-      <section class="themeix-Course section-spacing bg-color">
-         <div class="container">
-            <div class="row {{page.url}}">
-                  {% assign software_courses = site.data.courselist | where: "track", "software" %}
-                  {% for course in software_courses %}
-                     {% include course-card.html %}
-                  {% endfor %}
-            </div>
-         </div>
-      </section>
-      <!-- End Themeix Course -->             
-      
-{% include subscribe.html %} 
+
+{% include page-title.html %}
+<!-- Start Themeix  Course-->
+<section class="themeix-Course section-spacing bg-color">
+   <div class="container">
+      <div class="row {{page.url}}">
+         {% assign software_courses = site.data.courselist | where: "track", "software" %}
+         {% for course in software_courses %}
+         {% include course-card.html %}
+         {% endfor %}
+      </div>
+   </div>
+</section>
+
+<!-- End Themeix Course -->
+
+{% include subscribe.html %}
