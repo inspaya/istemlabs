@@ -67,8 +67,8 @@
   num_of_hours: 18
   fee_per_hour: 2000
   instructor_id: 1
-  image: /assets/images/courses/seng.png
-  url: seng-beginner
+  image: /assets/images/courses/06.jpg
+  url: /software-engineering-track/beginner-i
 
 - name: "Software Engineering: Beginner II"
   track: "software"
