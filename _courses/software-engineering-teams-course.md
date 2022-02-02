@@ -36,9 +36,15 @@ The cost of this course is N22,000 (Twenty-two Thousand Naira Only)
 
 ## Course Content
 1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
+   
 1. 2hrs - Understanding different roles in a Software Project
-1. 2hrs - Digital Tools (Zoom, Slack, Github, APIs)
-1. 1hr - Project A?
+
+1. 2hrs - Digital Tools
+
+1. 1hr - Project
+
 1. 2hrs - Team tools e.g. Issue Trackers, Support Systems, CI/CD systems, Version Control
-1. 2hrs - Remote Work best practices (2hrs) 
+
+1. 2hrs - Remote Work best practices
+
 1. 2hrs - Capstone Project
