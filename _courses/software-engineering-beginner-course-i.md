@@ -2,7 +2,7 @@
 layout: lesson
 name: "Software Engineering"
 date: 2019-01-01 10:59:37 +0600
-image:
+image: /assets/images/courses/06.jpg
 instructor_id: 1
 comments: true
 duration: -- hr
