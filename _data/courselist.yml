@@ -10,7 +10,7 @@
   fee_per_hour: 1000
   instructor_id: 2
   image: /assets/images/courses/scratch.png
-  url: STEM-track/programming-for-Kids-I
+  url: stem-track/programming-for-kids-i
 
 - name: "Software Engineering: Foundation"
   id: 1

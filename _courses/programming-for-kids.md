@@ -14,7 +14,7 @@ course_id: 2
 course_code: "STEM-101"
 faculty_notes: "scratch introduction, blocks overview, complete programs"
 description: Get started learning to program a computer using Scratch
-permalink: STEM-track/programming-for-Kids-I
+permalink: stem-track/programming-for-kids-i
 ---
 # Software Programming for Kids I
 
@@ -35,14 +35,25 @@ The cost of this course is N22,000 (Twenty-Two Thousand Naira Only).
 
 ## Course Content
 1. iSTEMLabsAfrica Digital Awareness Healthcheck (1hr FREE)
+
 1. 2hrs - Introduction to Scratch 
+
 1. 2hrs - Movements and Drawing Paths
+
 1. 2hrs - Animation and Sound
-1. 2hrs - Project A: ???
+
+1. 2hrs - Project A
+
 1. 2hrs - Structuring Scratch Programs
+
 1. 2hrs - Understanding Data, Variables, Inputs and Output
+
 1. 2hrs - Adding Conditions to Programs
-1. 2hrs - Project B: ???
+
+1. 2hrs - Project B
+
 1. 2hrs - Repeating Actions in your Program
+
 1. 2hrs - Deeper Dive into Data Structures (Strings and Lists)
+
 1. 2hrs - Capstone Project
