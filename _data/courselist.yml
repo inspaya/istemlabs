@@ -4,7 +4,7 @@
   description: >-
     Get started learning to program a computer using Scratch
   delivery: Online and In-Person
-  certificate: iSTEMLabsAfrica Kids Coder I
+  certificate: "iSTEMLabsAfrica Kids Coder I"
   num_of_lessons: 8
   num_of_hours: 22
   fee_per_hour: 1000
@@ -12,8 +12,37 @@
   image: /assets/images/courses/scratch.png
   url: stem-track/programming-for-kids-i
 
-- name: "Software Engineering: Foundation"
+- name: " Software: Programming for Kids II"
   id: 1
+  track: "stem"
+  description: >-
+   This course builds on knowledge acquired in Programming for Kids I. Participants learn to instruct the computer using the Python programming language.
+  delivery: Online and In-Person
+  certificate: "iSTEMLabsAfrica Kids Coder II"
+  num_of_lessons: 8
+  num_of_hours: 27
+  fee_per_hour: 1000
+  instructor_id: 1
+  image: /assets/images/courses/scratch.png
+  url: STEM-track/programming-for-Kids-II
+
+
+# - name: " Software: Programming for Kids III"
+#   id: 2
+#   track: "stem"
+#   description: >-
+#     Get started learning to program a computer using Scratch
+#   delivery: Online and In-Person
+#   certificate: "iSTEMLabsAfrica Kids Coder I"
+#   num_of_lessons: 8
+#   num_of_hours: 22
+#   fee_per_hour: 1000
+#   instructor_id: 2
+#   image: /assets/images/courses/scratch.png
+#   url: STEM-track/programming-for-Kids-III
+  
+- name: "Software Engineering: Foundation"
+  id: 3
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
@@ -28,7 +57,7 @@
   url:  /software-engineering-track/foundation-course
 
 - name: "Software Engineering: Beginner I"
-  id: 2
+  id: 4
   track: "software"
   description: >-
     Learn to build and deploy your first real-world software engineering project - a static website.
@@ -43,7 +72,7 @@
 
 - name: "Software Engineering: Beginner II"
   track: "software"
-  id: 3
+  id: 5
   description: >-
    The course goes beyond technical skills and introduces students to soft skills, business logic, practical aspects of embarking on a real-world software project.
   certificate: ""
@@ -57,7 +86,7 @@
 
 - name: "Software Engineering: Teams Course"
   track: "software"
-  id: 5
+  id: 6
   description: >-
     The course focuses on introducing the different roles involved in building a successful software project and the need to specialize even though participants have a general understanding of other concepts.
   certificate: ""
@@ -87,4 +116,3 @@
 #   instructor_id: 1 
 #   image: /assets/images/software-beginner.jpg
 #   url: seng-advanced
- 

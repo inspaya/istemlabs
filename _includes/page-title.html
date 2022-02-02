@@ -1,19 +1,28 @@
 <!-- Start Themeix Banner Wells -->
 <section class="themeix-banner-wells inner-spacing">
-    <div class="container">
-       <div class="row">
-          <div class="col">
-             <div class="themeix-wells-container">
-                <h2>{{page.title}}</h2>
-                <nav>
-                   <ol class="breadcrumb">
-                      <li class="breadcrumb-item"><a href="{{site.url}}">Home</a></li>
-                      <li class="breadcrumb-item active">{{page.title}}</li>
-                   </ol>
-                </nav>
-             </div>
-          </div>
-       </div>
-    </div>
- </section>
- <!-- End Themeix Slider -->
+   <div class="container">
+      <div class="row">
+         <div class="col">
+            <div class="themeix-wells-container">
+
+               {% comment %}
+               {% assign title_parts = page.title | split: ' ' %}
+               {% assign title_parts_len = title_parts.size %}
+               {% assign part1 = title_parts | slice: 0, title_parts_len-2 | join: ' ' %}
+               {% assign part2 = title_parts | slice: -1,1 | join: ' ' | upcase %}
+               {% assign page_title = {{ part1}} {{part2}} %}
+               {% endcomment %}
+
+               <h2>{{ page.name }}</h2>
+               <nav>
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="{{site.url}}">Home</a></li>
+                     <li class="breadcrumb-item active">{{ page.name }}</li>
+                  </ol>
+               </nav>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- End Themeix Slider -->

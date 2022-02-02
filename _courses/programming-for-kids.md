@@ -1,6 +1,6 @@
 ---
 layout: course
-name: "Software: Programming for Kids I"
+name: "Software Programming for Kids I"
 date: 2019-01-01 10:59:37 +0600
 image: /assets/images/courses/scratch.png
 instructor_id: 2
@@ -10,7 +10,7 @@ fees: To be announced
 rating: 4
 track: "stem"
 featured: true
-course_id: 2
+course_id: 0
 course_code: "STEM-101"
 faculty_notes: "scratch introduction, blocks overview, complete programs"
 description: Get started learning to program a computer using Scratch
