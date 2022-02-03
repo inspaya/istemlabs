@@ -1,4 +1,4 @@
-<h4 class="sidebar-title">Recent Course</h4>
+<h4 class="sidebar-title">Recently Viewed</h4>
 <div class="sidebar-recent sidebar-widget">
     {% for course in site.courses limit:5 %}
     {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
