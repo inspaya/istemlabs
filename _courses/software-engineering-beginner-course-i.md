@@ -1,14 +1,13 @@
 ---
 layout: lesson
-name: "Software Engineering"
+name: "Software Engineering Beginner Course I"
 date: 2019-01-01 10:59:37 +0600
 image: /assets/images/courses/seng.png
 instructor_id: 1
 comments: true
-duration: -- hr
-fees: To be announced
+duration: 24 hrs
 rating:
-track: "Beginner Course I"
+track: "software"
 featured: true
 course_id:
 course_code: "SENG 103"

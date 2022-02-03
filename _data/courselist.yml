@@ -59,7 +59,7 @@
   fee_per_hour: 2000
   instructor_id: 1
   image: /assets/images/courses/06.jpg
-  url: /software-engineering-track/beginner-i
+  url: /software-engineering-track/beginner-course-i
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: NYSC Beginners Course"
