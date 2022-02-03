@@ -23,6 +23,8 @@ instructor_id: 1
 This course is a fast-track focusing on the essential skills required for young graduates to launch careers
 in software engineering and expose them to remote work opportunities. Instruction is mainly project-based, and is offered based on a special arrangement with the National Youth Service Corps (N.Y.S.C) Skills And Entrepreneurship Development (S.A.E.D) department for active Corps Members as a contribution to knowledge and skills acquisition for youths in Nigeria.
 
+<a target="_blank" href="https://tinyurl.com/mvbu3f9r">Click here to register</a>
+
 ## Duration
 This course runs for a total duration of 36 hours.
 

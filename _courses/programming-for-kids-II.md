@@ -20,6 +20,8 @@ permalink: /stem-track/programming-for-kids-ii
 ## Objective
 This course builds on knowledge acquired in Programming for Kids I. Participants learn to instruct the computer using the Python programming language.
 
+<a target="_blank" href="https://forms.gle/sGEdvfREd1iF1mMaA">Click here to register</a>
+
 ## Duration
 This course runs for a total duration of 28 hours (27 paid hours + 1 FREE hour).
 

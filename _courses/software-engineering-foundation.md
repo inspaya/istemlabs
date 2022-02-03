@@ -19,6 +19,8 @@ instructor_id: 2
 ## Objective
 The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers.
 
+<a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
+
 ## Duration
 This course runs for a total duration of 27 hours (26 paid hours + 1 FREE hour).
 
