@@ -73,7 +73,7 @@
             {% endcomment %}
 
 
-            <p class="course_description">{{course.description}}</p>
+            <p class="course_description">{{course.description | truncatewords: 21}}</p>
 
             <div class="cardfooter">
                 <div class="card_footer_content">
