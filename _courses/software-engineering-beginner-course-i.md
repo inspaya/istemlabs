@@ -2,7 +2,7 @@
 layout: lesson
 name: "Software Engineering"
 date: 2019-01-01 10:59:37 +0600
-image: /assets/images/courses/06.jpg
+image: /assets/images/courses/seng.png
 instructor_id: 1
 comments: true
 duration: -- hr
@@ -14,7 +14,7 @@ course_id:
 course_code: "SENG 103"
 faculty_notes: ""
 description: The first part of the beginner course builds on previous knowledge gained in the foundation course while also helping students understand the key elements of software development for the web. Students are engaged in real-world software projects with the aim of publishing their first creation.
-permalink: /software-engineering-track/beginner-i
+permalink: /software-engineering-track/beginner-course-i
 ---
 
 ## Objective
@@ -34,7 +34,7 @@ To participate in this course, students must demonstrate competence in the follo
 
 
 ## Certification
-Upon successful completion of this course, participants will be awarded the "iSTEMLabsAfrica Software Engineering: Beginner Course I" certificate.
+Upon successful completion of this course, participants will be awarded the **iSTEMLabsAfrica Software Engineering: Beginner Course I** certificate.
 
 ## Cost
 The cost of this course is N36,000 (Thirty-Six Thousand Only)
