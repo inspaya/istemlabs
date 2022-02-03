@@ -12,8 +12,8 @@ course_id: 1
 course_code: "NYSC 101"
 faculty_notes: ""
 description: >- 
-This course is a fast-track focusing on the essential skills required for young graduates to launch careers
-in software engineering.
+  This course is a fast-track focusing on the essential skills required for young graduates to launch careers
+  in software engineering.
 permalink: /software-engineering-track/nysc-beginners-course
 image: /assets/images/courses/05.jpg
 instructor_id: 1

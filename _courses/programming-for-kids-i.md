@@ -14,8 +14,8 @@ course_id: 0
 course_code: "STEM-101"
 faculty_notes: "scratch introduction, blocks overview, complete programs"
 description: >- 
-This course introduces participants into the amazing world of computers and how to instruct them using 
-the Scratch programming language and several educational robots.
+  This course introduces participants into the amazing world of computers and how to instruct them using 
+  the Scratch programming language and several educational robots.
 permalink: /stem-track/programming-for-kids-i
 ---
 

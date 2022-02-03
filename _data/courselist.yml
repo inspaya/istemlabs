@@ -12,6 +12,7 @@
   instructor_id: 2
   image: /assets/images/courses/scratch.png
   url: /stem-track/programming-for-kids-i
+  registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
 
 - name: "Software: Programming for Kids II"
   id: 1
@@ -27,6 +28,7 @@
   instructor_id: 1
   image: /assets/images/courses/08.jpg
   url: /stem-track/programming-for-kids-ii
+  registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
   
 - name: "Software Engineering: Foundation"
   id: 2
@@ -42,6 +44,7 @@
   instructor_id: 2
   image: /assets/images/courses/git.png
   url:  /software-engineering-track/foundation-course
+  registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: Beginner I"
   id: 3
@@ -57,6 +60,7 @@
   instructor_id: 1
   image: /assets/images/courses/06.jpg
   url: /software-engineering-track/beginner-i
+  registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: NYSC Beginners Course"
   track: "software"
@@ -72,3 +76,4 @@
   instructor_id: 1
   image: /assets/images/courses/05.jpg
   url: /software-engineering-track/nysc-beginners-course
+  registration_url: "https://tinyurl.com/mvbu3f9r"
