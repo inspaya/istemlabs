@@ -13,13 +13,16 @@ featured: true
 course_id: 0
 course_code: "STEM-101"
 faculty_notes: "scratch introduction, blocks overview, complete programs"
-description: Get started learning to program a computer using Scratch
-permalink: stem-track/programming-for-kids-i
+description: >- 
+  This course introduces participants into the amazing world of computers and how to instruct them using 
+  the Scratch programming language and several educational robots.
+permalink: /stem-track/programming-for-kids-i
 ---
-# Software Programming for Kids I
 
 ## Objective
 This course explores the world of computer programming using the Scratch language. Students get to understand how the computer handles tasks as well as interact with gadgets such as robots e.t.c. Some of the robots available for this course include, the ELEGOO Smart Car, the Makeblock 2.0 10-in-1 robot and Tello’s DJI educational drone.
+
+<a target="_blank" href="https://forms.gle/sGEdvfREd1iF1mMaA">Click here to register</a>
 
 ## Duration
 This course runs for a total duration of 23 hours (22 paid hours + 1 FREE hour).
@@ -28,7 +31,7 @@ This course runs for a total duration of 23 hours (22 paid hours + 1 FREE hour).
 Basic familiarity with how to operate a computer device is a plus but not required.
 
 ## Certification
-Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Kids Coder I” certificate.
+Upon successful completion of this course, participants will be awarded the **iSTEMLabsAfrica Kids Coder I** certificate.
 
 ## Cost
 The cost of this course is N22,000 (Twenty-Two Thousand Naira Only).
