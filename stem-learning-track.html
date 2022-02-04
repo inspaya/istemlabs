@@ -8,12 +8,12 @@ permalink: /stem-learning-track
 <section class="themeix-course section-spacing bg-color">
    <div class="container">
       <div class="row {{page.url}}">
-            {% assign stem_courses = site.data.courselist | where: "track", "stem" %}
-               {% for course in stem_courses %}
-               {% include course-card.html %}
-               {% endfor %}
-         </div>
+         {% assign stem_courses = site.data.courselist | where: "track", "stem" %}
+         {% for course in stem_courses %}
+         {% include course-card.html %}
+         {% endfor %}
       </div>
+   </div>
 </section>
 <!-- End Themeix Course -->
 
