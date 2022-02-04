@@ -1,21 +1,19 @@
 ---
 layout: course
 name: "Software Engineering: Beginner Course II"
-date: 2022-01-21 12:41:37 +0100
+date: 2022-02-02 22:08:37 +0100
 image: /assets/images/courses/seng.png
 instructor_id: 1
 comments: true
-duration:  ..Hours
-fees: To be announced
-rating: 4
+duration: 14 Hours
+rating:
 track: "software"
 featured: true
-course_id: 12
+course_id: 4
 course_code: "SENG 104"
 faculty_notes: ""
 description: The second part of the beginner course focuses on necessary design required before embarking on a software project. The course goes beyond the technical skills and introduces students to soft skills, business logic, practical aspects of embarking on a real-world software project.
-permalink: /software-engineering-beginner-course-II
-instructor_id: 1
+permalink: /software-engineering-track/beginner-course-ii
 ---
 
 # Software Engineering: Beginner Course II
@@ -26,7 +24,7 @@ The second part of the beginner course focuses on necessary design required befo
 
 ## Duration
 
-This course runs for a total duration of 13 hours (12 paid hours + 1 FREE hour).
+This course runs for a total duration of 15 hours (14 paid hours + 1 FREE hour).
 
 ## Prerequisites
 
@@ -44,7 +42,7 @@ Upon successful completion of this course, participants will be awarded the “i
 
 ## Cost
 
-The cost of this course is ……
+The cost of this course is N28,000 (Twenty-Eight Thousand Naira Only)
 
 ## Course Content
 
@@ -62,13 +60,13 @@ The cost of this course is ……
 
    - Delivery mechanism
 
-1. 1hr - Project A: Student is tasked with
+1. 1hr - Project A
 
 1. 2hrs - Development Tools & Technology
 
 1. 2hrs - Software Project Cost Estimation
 
-1. 1hr - Project B: Student is tasked with
+1. 1hr - Project B
 
 1. 2hrs - Software Project Proposal Development/Presentation
 
@@ -78,4 +76,4 @@ The cost of this course is ……
 
    - General overview of server-side languages, back-end systems
 
-1. 2hrs - Capstone Project: ???
+1. 2hrs - Capstone Project
