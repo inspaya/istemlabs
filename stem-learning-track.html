@@ -8,28 +8,10 @@ permalink: /stem-learning-track
 <section class="themeix-course section-spacing bg-color">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8 col-md-7">
-            {% assign stem_courses = site.courses | where: "track", "stem" | sort: "course_id" %}
-            {% assign url_parts = page.url | split: '/' %}
-            {% if url_parts.last != 'courses' %}
-            {% assign course_code = url_parts.last %}
-            {% endif %}
-            {% assign parent_course = site.data.courselist | where: "course_code", course.course_code | first %}
-            <h4>{{ parent_course.name }}</h4>
-            <p> {{ parent_course.overview }} </p>
-            <p><b> Cost: N{{ parent_course.num_of_hours | times: parent_course.fee_per_hour }}</b></p>
-            <div class="row">
-               {% for course in stem_courses %}
-               {% include lesson-card.html %}
-               {% endfor %}
-            </div>
-         </div>
-         <div class="col-lg-4 col-md-5">
-            <div class="themeix-sidebar-right">
-               {% include stem-meta.html %}
-            </div>
-         </div>
-
+         {% assign stem_courses = site.data.courselist | where: "track", "stem" | sort: "course_id" %}
+         {% for course in stem_courses %}
+         {% include course-card.html %}
+         {% endfor %}
       </div>
    </div>
 </section>
