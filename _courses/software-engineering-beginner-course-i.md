@@ -1,6 +1,6 @@
 ---
 layout: course
-name: "Software Engineering Beginner Course I"
+title: "Software Engineering Beginner Course I"
 date: 2019-01-01 10:59:37 +0600
 image: /assets/images/courses/seng.png
 instructor_id: 1

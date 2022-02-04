@@ -1,6 +1,6 @@
 ---
 layout: course
-name: "Software Engineering: Foundation Course"
+title: "Software Engineering: Foundation Course"
 date: 2022-01-07 16:29:37 +0100
 comments: true
 duration: 26 hrs
