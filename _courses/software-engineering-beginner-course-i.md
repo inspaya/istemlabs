@@ -38,21 +38,21 @@ To participate in this course, students must demonstrate competence in the follo
 Upon successful completion of this course, participants will be awarded the **iSTEMLabsAfrica Software Engineering: Beginner Course I** certificate.
 
 ## Cost
-The cost of this course is N36,000 (Thirty-Six Thousand Only)
+The cost of this course is N46,000 (Fourty-Six Thousand Only)
 
 ## Course Content
  1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
 
  1. 4hrs - Essential HTML and CSS 
 
- 1. 1hr - Project A
+ 1. 2hrs - Project A
 
- 1. 4hrs - Essential Javascript
+ 1. 6hrs - Essential Javascript
 
- 1. 1hr - Project B
+ 1. 2hr - Project B
 
  1. 3hrs - Publishing Websites for Free
 
  1. 3hrs - Introduction to Web Applications
 
- 1. 2hrs - Capstone Project
+ 1. 3hrs - Capstone Project
