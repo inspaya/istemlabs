@@ -1,6 +1,13 @@
 <link rel="stylesheet" href="/assets/css/course_card.css">
-
-
+{% if page.permalink == "/stem-learning-track" %}
+<style>
+    @media only screen and (min-width:768px) {
+        .cardbox {
+            min-height: 80%;
+        }
+    }
+</style>
+{% endif %}
 <div><br /></div>
 
 <div
@@ -20,10 +27,6 @@
         {% assign track = 'stem-learning-track' %}
         {% when 'software' %}
         {% assign track = 'software-engineering-learning-track' %}
-        {% comment %}
-        {% assign tracklink = {{course.baseurl | append course.permalink}} %}
-        {% endcomment %}
-
         {% when 'maker' %}
         {% assign track = 'maker' %}
         {% endcase %}
@@ -69,15 +72,19 @@
             </div>
             {% endcomment %}
 
-            <p class="course_description">{{course.description}}</p>
+
+            <p class="course_description">{{course.description | truncatewords: 21}}</p>
 
             <div class="cardfooter">
-                <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours }}</p>
-                <div class="popular-course-meta">
-                    <div class="themeix-course-action">
-                        <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>
+                <div class="card_footer_content">
+                    <p>Fee: N{{ course.fee_per_hour | times: course.num_of_hours | round }}</p>
+                    <div class="popular-course-meta">
+                        <div class="themeix-course-action">
+                            <a class="popular-course-enroll" href="{{ course.url }}">View Now</a>
+                        </div>
                     </div>
                 </div>
+
             </div>
 
         </div>

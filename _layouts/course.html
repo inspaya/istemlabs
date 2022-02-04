@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="/assets/css/course-content.css">
 {% include page-title.html %}
 <!-- Start Themeix Course Info -->
 <section class="themeix-course-info section-spacing ">
@@ -13,7 +14,7 @@ layout: default
                 <div class="course-meta-content light-text">
                     <p>Instructor</p>
                     <a href="{{instructor.url}}">
-                        <h5>{{instructor.instructor_id}}</h5>
+                        <h5>{{instructor.name}}</h5>
                     </a>
                 </div>
             </div>
@@ -63,7 +64,7 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-md-7">
                 <div class="themeix-single pb-5">
-                    <div class="entry-content">
+                    <div class="entry-content course-content">
                         {{content}}
                     </div>
                     {% assign lessons = site.lessons | where: 'course_id', page.course_id %}
