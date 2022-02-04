@@ -1,5 +1,5 @@
-- name: "Software: Programming for Kids I"
-  id: 0
+- name: " Software: Programming for Kids I"
+  id: 1
   track: "stem"
   description: >-
     This course introduces participants into the amazing world of computers and how to instruct them using 
@@ -15,7 +15,7 @@
   registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
 
 - name: "Software: Programming for Kids II"
-  id: 1
+  id: 2
   track: "stem"
   description: >-
    This course builds on knowledge acquired in Programming for Kids I. Participants learn
@@ -31,7 +31,7 @@
   registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
   
 - name: "Software Engineering: Foundation"
-  id: 2
+  id: 3
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
@@ -47,7 +47,7 @@
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: Beginner I"
-  id: 3
+  id: 4
   track: "software"
   description: >-
     This course introduces participants into building static content for the web. Students learn HTML/CSS and Javascript,

@@ -8,7 +8,7 @@ duration: 36 hrs
 rating: 5
 track: "software"
 featured: true
-course_id: 1
+course_id: 5
 course_code: "NYSC 101"
 faculty_notes: ""
 description: >- 
