@@ -9,7 +9,7 @@ duration: 24 hrs
 rating:
 track: "software"
 featured: true
-course_id: 3
+course_id: 4
 course_code: "SENG 103"
 faculty_notes: ""
 description: The first part of the beginner course builds on previous knowledge gained in the foundation course while also helping students understand the key elements of software development for the web. Students are engaged in real-world software projects with the aim of publishing their first creation.
