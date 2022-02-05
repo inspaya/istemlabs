@@ -1,6 +1,6 @@
 ---
 layout: course
-name: "Software Engineering: NYSC Beginners Course"
+title: "Software Engineering: NYSC Beginners Course"
 date: 2022-01-07 16:29:37 +0100
 image: /assets/images/courses/05.jpg
 comments: true

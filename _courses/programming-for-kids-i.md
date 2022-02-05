@@ -1,6 +1,6 @@
 ---
 layout: course
-name: "Software Programming for Kids I"
+title: "Software Programming for Kids I"
 date: 2019-01-01 10:59:37 +0600
 image: /assets/images/courses/scratch.png
 instructor_id: 2
