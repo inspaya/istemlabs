@@ -16,7 +16,9 @@ description: >-
   in software engineering.
 permalink: /software-engineering-track/nysc-beginners-course
 image: /assets/images/courses/05.jpg
-instructor_id: 1
+instructor_id:
+  - 1
+  - 2
 ---
 
 ## Objective
