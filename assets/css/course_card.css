@@ -16,6 +16,10 @@
     position: relative;
 }
 
+.card_footer_content p{
+    font-weight: bold;
+}
+
 .cardfooter {
     position: absolute;
     top:80%;
