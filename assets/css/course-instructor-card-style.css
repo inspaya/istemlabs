@@ -1,0 +1,8 @@
+/* More CSS for course instructor card */
+.course-instructor-card {
+    max-width: 800px;
+}
+
+.course-info-wrapper{
+    margin-bottom: 1rem;
+}
