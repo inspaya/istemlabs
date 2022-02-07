@@ -1,7 +1,7 @@
 ---
 layout: course
 name: "Software Engineering: Beginner Course II"
-date: 2022-02-02 22:08:37 +0100
+date: 2022-02-07 23:011:37 +0100
 image: /assets/images/courses/seng.png
 instructor_id: 1
 comments: true
@@ -16,11 +16,11 @@ description: The second part of the beginner course focuses on necessary design 
 permalink: /software-engineering-track/beginner-course-ii
 ---
 
-# Software Engineering: Beginner Course II
-
 ## Objective
 
 The second part of the beginner course focuses on necessary design required before embarking on a software project. The course goes beyond the technical skills and introduces students to soft skills, business logic, practical aspects of embarking on a real-world software project.
+
+<a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
 ## Duration
 
@@ -31,14 +31,18 @@ This course runs for a total duration of 15 hours (14 paid hours + 1 FREE hour).
 To participate in this course, students must demonstrate competence in the following concepts:
 
 1. Using the command line/terminal/shell
+
 1. Using a text editor and/or I.D.E
+
 1. Using Git (i.e. everyday) commands and setting up a repository on Github.com, Bitbucket.org, Gitlab.com or similar cloud-based VCS platform.
+
 1. Building a functional website with HTML, CSS and JavaScript
+
 1. Deploying web applications or sites
 
 ## Certification
 
-Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: Beginner Course II” certificate.
+Upon successful completion of this course, participants will be awarded the **iSTEMLabsAfrica Software Engineering: Beginner Course II** certificate.
 
 ## Cost
 
