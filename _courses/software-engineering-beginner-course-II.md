@@ -9,7 +9,7 @@ duration: 14 Hours
 rating:
 track: "software"
 featured: true
-course_id: 4
+course_id: 5
 course_code: "SENG 104"
 faculty_notes: ""
 description: The second part of the beginner course focuses on necessary design required before embarking on a software project. The course goes beyond the technical skills and introduces students to soft skills, business logic, practical aspects of embarking on a real-world software project.
