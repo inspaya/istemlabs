@@ -63,11 +63,10 @@
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: Beginner IV"
-  id: 7
+  id: 6
   track: "software"
   description: >-
-    This course introduces participants into building static content for the web. Students learn HTML/CSS and Javascript,
-    which form the foundation for building the mordern web.
+    This course is designed to highlight the benefits of applying automated testing techniques to code. It explores common types of testing and how to integrate these into Continuous Integration/Continuous Deployment systems.
   certificate: "iSTEMLabsAfrica Software Engineering: Software Tester "
   delivery: Online and In-Person
   num_of_lessons: 6
@@ -80,7 +79,7 @@
 
 - name: "Software Engineering: NYSC Beginners Course"
   track: "software"
-  id: 5
+  id: 7
   description: >-
     This course is a fast-track focusing on the essential skills required for young graduates to launch careers
     in software engineering.
