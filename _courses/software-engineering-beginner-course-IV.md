@@ -7,7 +7,7 @@ duration: 28 Hours
 rating: 4
 track: "software"
 featured: true
-course_id: 7
+course_id: 6
 course_code: "SENG 107"
 faculty_notes: ""
 description: "This course is designed to highlight the benefits of applying automated testing techniques to code. It explores common types of testing and how to integrate these into Continuous Integration/Continuous Deployment systems. "
