@@ -18,8 +18,8 @@
   id: 2
   track: "stem"
   description: >-
-   This course builds on knowledge acquired in Programming for Kids I. Participants learn
-   to write code in the Python programming language.
+    This course builds on knowledge acquired in Programming for Kids I. Participants learn
+    to write code in the Python programming language.
   delivery: Online and In-Person
   certificate: "iSTEMLabsAfrica Kids Coder II"
   num_of_lessons: 8
@@ -29,13 +29,13 @@
   image: /assets/images/courses/08.jpg
   url: /stem-track/programming-for-kids-ii
   registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
-  
+
 - name: "Software Engineering: Foundation"
   id: 3
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
-    the tools & technologies. 
+    the tools & technologies.
   certificate: "iSTEMLabsAfrica Software Developer Foundation Certificate"
   delivery: Online and In-Person
   num_of_lessons: 5
@@ -43,7 +43,7 @@
   fee_per_hour: 2000
   instructor_id: 2
   image: /assets/images/courses/git.png
-  url:  /software-engineering-track/foundation-course
+  url: /software-engineering-track/foundation-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: Beginner I"
@@ -60,6 +60,22 @@
   instructor_id: 1
   image: /assets/images/courses/06.jpg
   url: /software-engineering-track/beginner-course-i
+  registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "Software Engineering: Beginner IV"
+  id: 7
+  track: "software"
+  description: >-
+    This course introduces participants into building static content for the web. Students learn HTML/CSS and Javascript,
+    which form the foundation for building the mordern web.
+  certificate: "iSTEMLabsAfrica Website Builder Certificate I"
+  delivery: Online and In-Person
+  num_of_lessons: 6
+  num_of_hours: 28
+  fee_per_hour: 2000
+  instructor_id: 1
+  image: /assets/images/courses/06.jpg
+  url: /software-engineering-track/beginner-course-iv
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: NYSC Beginners Course"
