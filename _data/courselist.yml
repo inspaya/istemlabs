@@ -1,68 +1,79 @@
-- name: "Programming for Kids I"
+- name: " Software: Programming for Kids I"
+  id: 1
   track: "stem"
   description: >-
-    Explore the world of computer programming using the Scratch language along with the ELEGOO Smart Car. 
-  overview: >-
-    Explore the world of computer programming using the Scratch language along with the ELEGOO Smart Car. 
-    Students cap the course with a project to solidify their understanding. 
+    This course introduces participants into the amazing world of computers and how to instruct them using 
+    the Scratch programming language and several educational robots.
   delivery: Online and In-Person
-  num_of_lessons: 10
-  num_of_hours: 13
+  certificate: "iSTEMLabsAfrica Kids Coder I"
+  num_of_lessons: 8
+  num_of_hours: 22
+  fee_per_hour: 1000
+  instructor_id: 2
+  image: /assets/images/courses/scratch.png
+  url: /stem-track/programming-for-kids-i
+  registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
+
+- name: "Software: Programming for Kids II"
+  id: 2
+  track: "stem"
+  description: >-
+   This course builds on knowledge acquired in Programming for Kids I. Participants learn
+   to write code in the Python programming language.
+  delivery: Online and In-Person
+  certificate: "iSTEMLabsAfrica Kids Coder II"
+  num_of_lessons: 8
+  num_of_hours: 27
   fee_per_hour: 1000
   instructor_id: 1
-  image: /assets/images/courses/scratch.png
-  url: prog-kids
-
+  image: /assets/images/courses/08.jpg
+  url: /stem-track/programming-for-kids-ii
+  registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
+  
 - name: "Software Engineering: Foundation"
+  id: 3
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
     the tools & technologies. 
-  certificate: "iSTEMLabsAfrica Software Developer Foundations Certificate"
+  certificate: "iSTEMLabsAfrica Software Developer Foundation Certificate"
   delivery: Online and In-Person
   num_of_lessons: 5
-  num_of_hours: 10
-  fee_per_hour: 2500
-  instructor_id: 1
+  num_of_hours: 26
+  fee_per_hour: 2000
+  instructor_id: 2
   image: /assets/images/courses/git.png
-  url: seng-foundation
+  url:  /software-engineering-track/foundation-course
+  registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: Beginner I"
+  id: 4
   track: "software"
   description: >-
-    Learn to build and deploy your first real-world software engineering project - a static website.
-  certificate: "iSTEMLabsAfrica Website Builder Certificate"
+    This course introduces participants into building static content for the web. Students learn HTML/CSS and Javascript,
+    which form the foundation for building the mordern web.
+  certificate: "iSTEMLabsAfrica Website Builder Certificate I"
+  delivery: Online and In-Person
+  num_of_lessons: 5
+  num_of_hours: 23
+  fee_per_hour: 2000
+  instructor_id: 1
+  image: /assets/images/courses/06.jpg
+  url: /software-engineering-track/beginner-course-i
+  registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "Software Engineering: NYSC Beginners Course"
+  track: "software"
+  id: 5
+  description: >-
+    This course is a fast-track focusing on the essential skills required for young graduates to launch careers
+    in software engineering.
+  certificate: "iSTEMLabsAfrica Junior Developer (Corper Bootcamp) Certificate I"
   delivery: Online and In-Person
   num_of_lessons: 4
-  num_of_hours: 15
-  fee_per_hour: 2500
+  num_of_hours: 36
+  fee_per_hour: 277.77777
   instructor_id: 1
-  image: /assets/images/courses/seng.png
-  url: seng-beginner
-
-# - name: "Software Engineering: Beginner II"
-#   track: "software"
-#   certificate: nil
-#   delivery: Online and In-Person
-#   num_of_lessons: 16
-#   instructor_id: 1
-#   image: /assets/images/software-beginner.jpg
-#   url: seng-beginner-ii
-
-# - name: "Software Engineering: Intermediate"
-#   track: "software"
-#   certificate: "iSTEMLabsAfrica Mid-Level Developer Certificate"
-#   delivery: Online and In-Person
-#   num_of_lessons: 16
-#   instructor_id: 1
-#   image: /assets/images/software-intermediate.jpg
-#   url: seng-intermediate
-
-# - name: "Software Engineering: Advanced"
-#   track: "software"
-#   certificate: "iSTEMLabsAfrica Senior Developer Certificate"
-#   delivery: Online and In-Person
-#   num_of_lessons: 16
-#   instructor_id: 1 
-#   image: /assets/images/software-beginner.jpg
-#   url: seng-advanced
+  image: /assets/images/courses/05.jpg
+  url: /software-engineering-track/nysc-beginners-course
+  registration_url: "https://tinyurl.com/mvbu3f9r"
