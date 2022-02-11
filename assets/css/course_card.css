@@ -1,4 +1,8 @@
 /* More CSS for Course card */
+.cardframe{
+    margin-bottom: 1rem;
+}
+
 .cardbox {
     box-sizing: border-box;
     position: relative;
