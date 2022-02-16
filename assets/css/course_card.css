@@ -1,4 +1,8 @@
 /* More CSS for Course card */
+.cardframe{
+    margin-bottom: 1rem;
+}
+
 .cardbox {
     box-sizing: border-box;
     position: relative;
@@ -14,6 +18,10 @@
 
 .card_footer_content{
     position: relative;
+}
+
+.card_footer_content p{
+    font-weight: bold;
 }
 
 .cardfooter {
