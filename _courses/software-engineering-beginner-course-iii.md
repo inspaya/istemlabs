@@ -28,7 +28,7 @@ This course runs for a total duration of 31 hours (30 paid hours + 1 FREE hour).
 ## Prerequisites
 To participate in this course, students must demonstrate competence in the following concepts:
   1. Basic familiarity with computers, word processing, software and their applications.
-  1.  Basic familiarity with writing HTML, CSS and Javascript
+  1. Basic familiarity with writing HTML, CSS and Javascript
 
 
 ## Certification
@@ -56,7 +56,7 @@ The cost of this course is N60,000 (Sixty Thousand Naira Only)
  1. 2hrs - OOP, PHP and MySQL
  1. 2hrs - Project C
  1. 2hrs -  Introduction to Unit Testing for Code
- 1. 2hrs - More Testing with PHPUnit
+ 1. 2hrs - More Testing with PHP Unit
  1. 2hrs - Project D
  1. 2hrs - Building REST APIs with PHP
  1. 2hrs - Capstone Project 
