@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include page-title.html %}
+<link rel="stylesheet" href="/assets/css/course-content.css">
 <!-- Start Themeix Course Info -->
 <section class="themeix-course-info section-spacing ">
     <div class="container">
@@ -13,7 +13,7 @@ layout: default
                 <div class="course-meta-content light-text">
                     <p>Instructor</p>
                     <a href="{{instructor.url}}">
-                        <h5>{{instructor.instructor_id}}</h5>
+                        <h5>{{instructor.name}}</h5>
                     </a>
                 </div>
             </div>
@@ -63,7 +63,7 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-md-7">
                 <div class="themeix-single pb-5">
-                    <div class="entry-content">
+                    <div class="entry-content course-content">
                         {{content}}
                     </div>
                     {% assign lessons = site.lessons | where: 'course_id', page.course_id %}
@@ -84,13 +84,6 @@ layout: default
                 <div class="themeix-sidebar-right">
                     {% assign course = site.data.courselist | where: 'id', page.course_id | first %}
                     {% include register-sidebar.html %}
-
-                    {% comment %}
-                    {% assign software_course = site.data.courselist | where: 'track', 'software'| first %}
-                    {% include software-engineering-meta.html %}
-                    {% assign software_course = site.data.courselist | where: 'track', 'stem'| first %}
-                    {% include stem-meta.html %}
-                    {% endcomment %}
                 </div>
             </div>
         </div>

@@ -1,14 +1,30 @@
 /* More CSS for Course card */
-.cardbox {
-    position: relative;
-    min-height: 540px;
+.cardframe{
+    margin-bottom: 1rem;
 }
 
-.cardfooter {
-    position: absolute;
-    bottom: 0;
+.cardbox {
+    box-sizing: border-box;
+    position: relative;
+    min-height: 100%;
+    margin-bottom: 50%;
 }
 
 .course_description{
     font-size: smaller;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.card_footer_content{
+    position: relative;
+}
+
+.card_footer_content p{
+    font-weight: bold;
+}
+
+.cardfooter {
+    position: absolute;
+    top:80%;
 }
