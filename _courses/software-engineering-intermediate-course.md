@@ -1,69 +1,70 @@
 ---
 layout: course
-name: "Software Engineering: Intermediate Course"
-date: 2022-01-21 15:59:37 +0100
+name: "Software Engineering: Intermediate Course I"
+date: 2022-02-16 15:59:37 +0100
 image: /assets/images/courses/seng.png
 instructor_id: 1
 comments: true
-duration: Hours
-fees: To be announced
-rating: 4
+duration: 41 hrs
+rating:
 track: "software"
 featured: true
-course_id: 12
+course_id: 9
 course_code: "SENG 110"
 faculty_notes: ""
-description: This is aimed at solidifying all the concepts that have been learnt in this course. Participants are required to build a fully functional web application that can be simultaneously deployed across multiple cloud platforms. Bonus activity here includes iSTEMLabsAfrica working with participants to secure remote jobs related to what they have learnt/built.
-permalink: /software-engineering-intermediate-course
-instructor_id: 1
+description: This course is designed to introduce participants to the amazing world of building software using the Python programming language and it’s associated libraries. The course provides hands-on projects to help students solidify their understanding of the language and different scenarios where it can be applied.
+permalink: /software-engineering-track/intermediate-course-i
 ---
-
-# Software Engineering: Intermediate Course
 
 ## Objective
 
-This is aimed at solidifying all the concepts that have been learnt in this course. Participants are required to build a fully functional web application that can be simultaneously deployed across multiple cloud platforms. Bonus activity here includes iSTEMLabsAfrica working with participants to secure remote jobs related to what they have learnt/built.
+This course is designed to introduce participants to the amazing world of building software using the Python programming language and it’s associated libraries. The course provides hands-on projects to help students solidify their understanding of the language and different scenarios where it can be applied.
+
+<a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
 ## Duration
 
-This course runs for a total duration of ….. hours (.... paid hours + 1 FREE hour).
+This course runs for a total duration of 41 hours ( 40 paid hours + 1 FREE hour).
 
 ## Prerequisites
 
-To participate in this course, students only need to be familiar with how to operate a computer system, use the input devices such as keyboard and mouse, as well as be familiar with how to access information on the Internet.
+To participate in this course, students need to have a basic familiarity with computer science concepts, such as programming language definitions, web and internet systems, operating systems e.t.c. They should be able to describe each of these items and give examples without necessarily knowing all the details of how they work.
 
 ## Certification
 
-Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: Intermediate Course ” certificate.
+Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: Mid-Level Developer I ” certificate.
 
 ## Cost
 
-The cost of this course is ………
+The cost of this course is N80,000 (Eighty Thousand Naira Only)
 
 ## Course Content
 
 1.  1hr - iSTEMLabsAfrica Digital Awareness Health Check (1 hr FREE)
 
-1.  3hrs - Introduction to Python (3hrs)
+1.  4hrs - Introduction to Python
+    - 1hr - General overview of the language, syntax, features e.t.c.
+    - 1hr - Setting up a development environment, using virtual environments.
+    - 2hrs - Hello World!
+1.  2hrs - Project A
 
-1.  1hr - Project A?
+1.  10hrs - Data Structures (a.k.a Data Types) in Python
 
-1.  4hrs - Data Structures in Python (3hrs)
+    - 4hrs - Using Primitives: integer, float, boolean, strings
+    - 6hrs - Using Non-Primitives: Lists, Dictionaries, Tuples, Sets
 
-1.  1hr - Project B?
+1.  1hr - Project B
 
-1.  4hrs - Control, Repetition and More (3hrs)
+1.  6hrs - Control, Repetition and More
 
-1.  1hr - Project C?
+    - 2hrs - Control (if, switch, using dictionaries instead)
+    - 2hrs - Repetition (for, while...)
+    - 2hrs - Functions
 
-1.  6hrs - Object-Oriented Programming (OOP) in Python (5hrs)
+1.  2hrs - Project C
 
-1.  1hr - Project D?
-
-1.  4hrs - Introduction to REST APIs/JSON (3hrs)
-
-1.  1hr - Project E?
-
-1.  6hrs - Using Development Frameworks (Django, Flask, Django REST API) (5hrs)
-
-1.  Capstone Project?
+1.  10hrs - Object-Oriented Programming (OOP) in Python I
+    - 2hrs - Introduction to OOP (inheritance, abstraction)
+    - 2hrs - Understanding Classes, class instances and their attributes, attributes scopes
+    - 2hrs - Introduction to Methods
+1.  4hrs - Capstone Project
