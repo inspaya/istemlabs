@@ -74,7 +74,6 @@
   num_of_hours: 36
   fee_per_hour: 277.77777
   instructor_id: 1
-<<<<<<< HEAD
   image: /assets/images/courses/seng.png
   url: seng-beginner
 
@@ -93,6 +92,21 @@
   url: /software-engineering-track/intermediate-course-i
 registration_url: "https://tinyurl.com/6kmnrzc6"
 
+- name: "Software Engineering: Intermediate II"
+  id: 
+  track: "software"
+  description: >-
+    This course is designed to introduce participants to the amazing world of building software using the Python programming language and it’s associated libraries. The course provides hands-on projects to help students solidify their understanding of the language and different scenarios where it can be applied.
+  certificate: "iSTEMLabsAfrica Software Engineering Mid-Level Developer II"
+  delivery: Online and In-Person
+  num_of_lessons: 5
+  num_of_hours: 33
+  fee_per_hour: 2000
+  instructor_id: 
+  image: /assets/images/courses/06.jpg
+  url: /software-engineering-track/intermediate-course-i
+registration_url: "https://tinyurl.com/6kmnrzc6"
+
 # - name: "Software Engineering: Advanced"
 #   track: "software"
 #   certificate: "iSTEMLabsAfrica Senior Developer Certificate"
@@ -102,8 +116,3 @@ registration_url: "https://tinyurl.com/6kmnrzc6"
 #   image: /assets/images/software-beginner.jpg
 #   url: seng-advanced
  
-=======
-  image: /assets/images/courses/05.jpg
-  url: /software-engineering-track/nysc-beginners-course
-  registration_url: "https://tinyurl.com/mvbu3f9r"
->>>>>>> 91b154e5a8beaf5c3e87bb00fda7c4ea824ecc2b
