@@ -16,7 +16,6 @@ faculty_notes: ""
 permalink: /software-engineering-track/beginner-course-III
 description: Participants engage in ideation, design and development of applications connected to more than more backends.e.g. DataBase, REST API e.t.c.
 ---
-# Software Engineering: Beginner Course III 
 
 ## Objective
 This course explains details of how PHP web applications can be built from the ground up by engaging participants in the ideation, design and development of applications connected to one or more backends e.g. database, REST API e.t.c. Thus, empowering the student to confidently choose any PHP framework or succeed in an environment where no framework/custom frameworks are used.
