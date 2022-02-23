@@ -28,7 +28,7 @@ This course runs for a total duration of 34 hours ( 33 paid hours + 1 FREE hour)
 
 ## Prerequisites
 
-To participate in this course, students need to have a basic familiarity with computer science concepts, such as programming language definitions, web and internet systems, operating systems e.t.c. They should be able to describe each of these items and give examples without necessarily knowing all the details of how they work.
+To participate in this course, students need to have a basic familiarity with computer science concepts, such as programming language definitions, web and internet systems, operating systems e.t.c. They should be able to describe each of these items and give examples without necessarily knowing all the details of how they work. In addition, students need to be familiar with basic Python programming.
 
 ## Certification
 
