@@ -18,7 +18,7 @@ permalink: /software-engineering-track/intermediate-course-ii
 
 ## Objective
 
-This course is dives deeper into additional concepts that help the student succeed as a Python Developer. In this course, we explore several Python libraries that enhance the software development process and output. The course provides hands-on projects to help students solidify their understanding of the language and different scenarios where it can be applied.
+This course dives deeper into additional concepts that help the student succeed as a Python Developer. In this course, we explore several Python libraries that enhance the software development process and output. The course provides hands-on projects to help students solidify their understanding of the language and different scenarios where it can be applied.
 
 <a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
