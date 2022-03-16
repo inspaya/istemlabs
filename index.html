@@ -1,98 +1,73 @@
 ---
 layout: default
 pagination:
-   enabled: true
+enabled: true
 ---
 
 <!-- Start Themeix Slider -->
 <section class="themeix-slider section-overlay-two bg-color">
-    <div class="container">
-       <div class="row">
-          <div class="col-md-10 mx-auto">
-             {% for slide in site.data.banner %}
-             <div class="themeix-slider-content text-center">
-                <h1> {{slide.title}}</h1>
-                <p>{{slide.subtitle}}
-                </p>
-                <div class="themeix-slider-btn">
-                   <a class="themeix-btn btn btn-primary" href="{{slide.course_url}}">{{slide.course_button_label}}</a>
-                   <a class="themeix-btn2 btn btn-primary" href="{{slide.contact_url}}" target="_blank">{{slide.contact_label}}</a>
-                </div>
-             </div>
-             {% endfor %}
-          </div>
-       </div>
-    </div>
- </section>
- <!-- End Themeix Slider -->
+   <div class="container">
+      <div class="row">
+         <div class="col-md-10 mx-auto">
+            {% for slide in site.data.banner %}
+            <div class="themeix-slider-content text-center">
+               <h1> {{slide.title}}</h1>
+               <p>{{slide.subtitle}}
+               </p>
+               <div class="themeix-slider-btn">
+                  <a class="themeix-btn btn btn-primary" href="{{slide.course_url}}">{{slide.course_button_label}}</a>
+                  <a class="themeix-btn2 btn btn-primary" href="{{slide.contact_url}}"
+                     target="_blank">{{slide.contact_label}}</a>
+               </div>
+            </div>
+            {% endfor %}
+         </div>
+      </div>
+   </div>
+</section>
+<!-- End Themeix Slider -->
 
 <!-- Start Themeix Popular-->
 <section class="themeix-popular section-spacing bg-color">
-    <div class="container">
-       <div class="row">
-          <div class="col-md-8 m-auto">
-             <div class="themeix-section-title text-center">
-                <h2>Our Course Catalog<a name="catalog"></a></h2>
-                <div class="section-border"></div>
-                <p>We offer individual lessons, courses comprising one or more lessons, and entire tracks of one or more courses. Lessons are delivered both in-person and online.</p>
-             </div>
-          </div>
-       </div>
-       <div class="scb-minus-30">
-          <div class="row"> 
-             {% for course in site.data.courselist %}
-                {% include course-card.html %}
-             {% endfor %}
-          </div>
-       </div>
-       {% include why-chose-us.html %}
-    </div>
- </section>
- <!-- End Themeix Popular -->
+   <div class="container">
+      <div class="row">
+         <div class="col-md-8 m-auto">
+            <div class="themeix-section-title text-center">
+               <h2>Our Course Catalog<a name="catalog"></a></h2>
+               <div class="section-border"></div>
+               <p>We offer individual lessons, courses comprising one or more lessons, and entire tracks of one or more
+                  courses. Lessons are delivered both in-person and online.</p>
+            </div>
+         </div>
+      </div>
+      <div class="scb-minus-30">
+         <div class="row">
+            {% for course in site.data.courselist %}
+            {% include course-card.html %}
+            {% endfor %}
+         </div>
+      </div>
+      {% include why-chose-us.html %}
+   </div>
+</section>
+<!-- End Themeix Popular -->
 
- {% include counter-section.html %}
+{% include counter-section.html %}
 
- {% include subscribe.html %}
+{% include subscribe.html %}
 <!-- Start Themeix  Feature-->
 <section class="themeix-events section-spacing bg-color">
-    <div class="container">
-       <div class="themeix-section-title">
-          <h2>Upcoming Event(s)</h2>
-          <div class="section-border left-border"></div>
-       </div>
-       <div class="upcoming-event-container">
-          {% assign counter = 0 %}
-          {% for event in site.data.events %}
-           {% assign counter = counter | plus:1 %}
-             <div class="upcoming-event-wrapper ">
-                <div class="row">
-                   <div class="col-md-8 col-sm-7">
-                      <div class="upcoming-event-details wow fadeIn" data-wow-duration="{{counter}}s">
-                         <div class="upcoming-event-logo">
-                            <h2>{{event.day}}</h2>
-                            <h5>{{event.month}}</h5>
-                         </div>
-                         <div class="upcoming-event-content">
-                            <h4>{{event.title}}</h4>
-                            <ul class="upcoming-event-meta list-inline">
-                               <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i>{{event.time}}</li>
-                               <li class="list-inline-item"><i class="fa fa-map-marker" aria-hidden="true"></i>{{event.location}}</li>
-                            </ul>
-                            <a class="upcoming-event-btn" href="{{event.url}}" target="_blank">register</a>
-                         </div>
-                      </div>
-                   </div>
-                   <div class="col-md-4 col-sm-5">
-                      <div class="upcoming-event-thumb"><img src="{{event.image}}"
-                            alt="{{event.title}}" /></div>
-                   </div>
-                </div>
-             </div>
-          {% endfor %}
-       </div>
-    </div>
- </section>
- <!-- End Themeix Feature -->
+   <div class="container">
+      <div class="themeix-section-title">
+         <h2>Upcoming Event(s)</h2>
+         <div class="section-border left-border"></div>
+      </div>
+      <div class="upcoming-event-container">
+         {% include events.html %}
+      </div>
+   </div>
+</section>
+<!-- End Themeix Feature -->
 
 <!-- Start Themeix Testimonial -->
 <!--
@@ -128,7 +103,7 @@ pagination:
     </div>
  </section>
 -->
- <!-- End Themeix Testimonial -->
+<!-- End Themeix Testimonial -->
 
 <!-- Start Themeix Instructor-->
 <!--
@@ -152,8 +127,7 @@ pagination:
        </div>
     </div>
  </section>
- <!-- End Themeix Testimonial-->
- -->
+  End Themeix Testimonial-->
 
 <!-- Start Themeix Feature-->
 <!--
@@ -184,5 +158,4 @@ pagination:
     </div>
  </section>
 -->
- <!-- End Themeix Feature-->
-
+<!-- End Themeix Feature-->
