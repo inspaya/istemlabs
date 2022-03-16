@@ -74,8 +74,9 @@
   num_of_hours: 36
   fee_per_hour: 277.77777
   instructor_id: 1
-  image: /assets/images/courses/seng.png
-  url: seng-beginner
+  image: /assets/images/courses/05.jpg
+  url: /software-engineering-track/nysc-beginners-course
+  registration_url: "https://tinyurl.com/mvbu3f9r"
 
 - name: "Software Engineering: Intermediate I"
   track: "software"
