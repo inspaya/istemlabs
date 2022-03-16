@@ -74,9 +74,9 @@
   num_of_hours: 36
   fee_per_hour: 277.77777
   instructor_id: 1
-<<<<<<< HEAD
-  image: /assets/images/courses/seng.png
-  url: seng-beginner
+  image: /assets/images/courses/05.jpg
+  url: /software-engineering-track/nysc-beginners-course
+  registration_url: "https://tinyurl.com/mvbu3f9r"
 
 - name: "Software Engineering: Intermediate I"
   track: "software"
@@ -88,22 +88,7 @@
   num_of_lessons: 5
   num_of_hours: 40
   fee_per_hour: 2000
-  instructor_id: 
+  instructor_id: 1
   image: /assets/images/courses/06.jpg
   url: /software-engineering-track/intermediate-course-i
-registration_url: "https://tinyurl.com/6kmnrzc6"
-
-# - name: "Software Engineering: Advanced"
-#   track: "software"
-#   certificate: "iSTEMLabsAfrica Senior Developer Certificate"
-#   delivery: Online and In-Person
-#   num_of_lessons: 16
-#   instructor_id: 1 
-#   image: /assets/images/software-beginner.jpg
-#   url: seng-advanced
- 
-=======
-  image: /assets/images/courses/05.jpg
-  url: /software-engineering-track/nysc-beginners-course
-  registration_url: "https://tinyurl.com/mvbu3f9r"
->>>>>>> 91b154e5a8beaf5c3e87bb00fda7c4ea824ecc2b
+  registration_url: "https://tinyurl.com/6kmnrzc6"
