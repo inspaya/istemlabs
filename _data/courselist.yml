@@ -92,3 +92,21 @@
   image: /assets/images/courses/06.jpg
   url: /software-engineering-track/intermediate-course-i
   registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "Software Engineering: Intermediate II"
+  id: 10
+  track: "software"
+  description: >-
+    This course is dives deeper into additional concepts that help the student succeed as a Python Developer. In this course, we explore several Python libraries that enhance the software development process and output. The course provides hands-on projects to help students solidify their understanding of the language and different scenarios where it can be applied.
+  certificate: "iSTEMLabsAfrica Software Engineering Mid-Level Developer II"
+  delivery: Online and In-Person
+  num_of_lessons: 5
+  num_of_hours: 33
+  fee_per_hour: 2000
+  instructor_id: 1
+  image: /assets/images/courses/06.jpg
+  url: /software-engineering-track/intermediate-course-ii
+  registration_url: "https://tinyurl.com/6kmnrzc6"
+
+
+ 
