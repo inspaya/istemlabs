@@ -91,7 +91,7 @@
   instructor_id: 1
   image: /assets/images/courses/06.jpg
   url: /software-engineering-track/intermediate-course-i
-registration_url: "https://tinyurl.com/6kmnrzc6"
+  registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: Intermediate II"
   id: 10
@@ -106,7 +106,7 @@ registration_url: "https://tinyurl.com/6kmnrzc6"
   instructor_id: 1
   image: /assets/images/courses/06.jpg
   url: /software-engineering-track/intermediate-course-ii
-registration_url: "https://tinyurl.com/6kmnrzc6"
+  registration_url: "https://tinyurl.com/6kmnrzc6"
 
 
  
