@@ -77,3 +77,20 @@
   image: /assets/images/courses/05.jpg
   url: /software-engineering-track/nysc-beginners-course
   registration_url: "https://tinyurl.com/mvbu3f9r"
+
+
+- name: "Software Engineering: Testing Course"
+  track: "software"
+  id: 5
+  description: >-
+    This course is a fast-track focusing on the essential skills required for young graduates to launch careers
+    in software engineering.
+  certificate: "iSTEMLabsAfrica Junior Developer (Corper Bootcamp) Certificate I"
+  delivery: Online and In-Person
+  num_of_lessons: 4
+  num_of_hours: 36
+  fee_per_hour: 278
+  instructor_id: 1
+  image: /assets/images/courses/05.jpg
+  url: /software-engineering-track/testing-course
+  registration_url: "https://tinyurl.com/mvbu3f9r"

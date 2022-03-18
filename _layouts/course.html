@@ -6,13 +6,12 @@ layout: default
 
 {% include page-title.html %}
 <!-- Start Themeix Course Info -->
-<section class="themeix-course-info section-spacing">
-    <div class="container course-instructor-card">
-        {% for instructor_index in page.instructor_id %}
-        {% assign instructor = site.instructors | where: 'instructor_id', instructor_index | first %}
-        {% include course-instructor-card.html %}
-        {% endfor %}
-    </div>
+
+<section class="course-instructor-card-section section-spacing">
+    {% for instructor_index in page.instructor_id %}
+    {% assign instructor = site.instructors | where: 'instructor_id', instructor_index | first %}
+    {% include course-instructor-card.html %}
+    {% endfor %}
 </section>
 
 <!-- End Themeix  Course Info-->
@@ -70,4 +69,6 @@ layout: default
     </div>
 </section>
 <!-- End Themeix Single -->
+</div>
+
 {% include subscribe.html %}
