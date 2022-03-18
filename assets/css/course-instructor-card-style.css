@@ -1,8 +1,120 @@
-/* More CSS for course instructor card */
-.course-instructor-card {
-    max-width: 800px;
+.course-instructor-card-section {
+  display: flex;
 }
 
-.course-info-wrapper{
-    margin-bottom: 1rem;
+.instructor-info-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.course-instructor-logo {
+  max-width: 70%;
+  margin: auto auto 10px;
+}
+
+.course-instructor-logo img {
+  max-width: 60%;
+  vertical-align: middle;
+  border-style: none;
+  border-radius: 50%;
+}
+
+
+.instructor-info-rounded {
+  max-width: 60%;
+  border-radius: 50%;
+  padding: 35px 5px 2px;
+  text-align: center;
+  float: none;
+}
+.instructor-meta-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.instructor-meta-content p {
+  margin: 0 10% 2%;
+  font-size: 14px;
+  padding-bottom: 3px;
+}
+
+.instructor-meta-content h5 {
+  font-weight: 600;
+  margin-left: 3px;
+}
+
+.instructor-name {
+  margin-bottom: 0;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.instructor-meta-content {
+  vertical-align: middle;
+  margin: 5px 0 0;
+  padding: 0;
+  text-align: justify;
+}
+
+.author-social-id {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.author-social-id a {
+  width: 30%;
+  height: 36px;
+  border-radius: 100%;
+  font-size: 100%;
+  padding-top: 7px;
+}
+
+.social-media-icons {
+  position: relative;
+  top: -3px;
+  bottom: 10px;
+}
+
+
+@media screen and (max-width: 448px) {
+  .course-instructor-card-section {
+    display: flex;
+    width: 100%;
+  }
+
+  .instructor-info-rounded {
+    max-width: 60%;
+  }
+
+  .instructor-meta-content p {
+    font-size: 12px;
+  }
+
+  .instructor-meta-content h5 {
+    font-weight: 500;
+    font-size: 14px;
+  }
+
+  .author-social-id a {
+    box-sizing: border-box;
+    width: 10%;
+    height: 10%;
+    padding: 8px;
+    border-radius: 50%;
+  }
+
+  .social-media-icons {
+    position: relative;
+    top: initial;
+    right: 4px;
+    bottom: 16px;
+    font-size: 60%;
+  }
+
+  .fa-facebook {
+    right: 3px;
+  }
 }

@@ -1,34 +1,41 @@
-<div class="course-info-wrapper d-flex align-items-stretch themeix">
+<div class="instructor-info-wrapper">
     {% if instructor %}
-    <div class="course-info themeix wow fadeIn" data-wow-duration="2s">
-        <div class="course-logo instructor"><img src="{{instructor.image}}" alt="{{instructor.name}}" /></div>
-        <div class="course-meta-content light-text">
-            <p>Instructor</p>
-            <a href="{{instructor.url}}">
-                <h5>{{instructor.name}}</h5>
-            </a>
+
+    <div class="instructor-info-rounded themeix wow fadeIn" data-wow-duration="2s">
+        <div class="course-instructor-logo">
+            <img src="{{instructor.image}}" alt="{{instructor.name}}" />
         </div>
     </div>
 
-    <div class="course-info instructor-bio themeix wow fadeIn" data-wow-duration="2s">
-        <p>{{instructor.bio}}</p>
+    <div class="instructor-meta-content">
+        <a href="{{instructor.url}}">
+            <h5 class="instructor-name">{{instructor.alias}}</h5>
+        </a>
+        <p>Instructor</p>
+
         <div class="author-social-id">
             {% if instructor.facebook_url %}
-            <a class="facebook" href="{{instructor.facebook_url}}"><i class="fa fa-facebook"></i></a>
+            <a class="facebook" href="{{instructor.facebook_url}}"><i
+                    class=" social-media-icons fa fa-facebook"></i></a>
             {% endif %}
 
             {% if instructor.twitter_url %}
-            <a class="twitter" href="{{instructor.twitter_url}}"> <i class="fa fa-twitter"></i></a>
+            <a class="twitter" href="{{instructor.twitter_url}}"> <i class=" social-media-icons fa fa-twitter"></i></a>
             {% endif %}
 
             {% if instructor.instagram_url %}
-            <a class="instagram" href="{{instructor.instagram_url}}"> <i class="fa fa-instagram"></i></a>
+            <a class="instagram" href="{{instructor.instagram_url}}"> <i
+                    class=" social-media-icons fa fa-instagram"></i></a>
             {% endif %}
 
             {% if instructor.pinterest_url %}
-            <a class="pinterest" href="{{instructor.pinterest_url}}"> <i class="fa fa-pinterest"></i></a>
+            <a class="pinterest" href="{{instructor.pinterest_url}}"> <i
+                    class=" social-media-icons fa fa-pinterest"></i></a>
             {% endif %}
         </div>
     </div>
-    {% endif %}
+
+</div>
+
+{% endif %}
 </div>
