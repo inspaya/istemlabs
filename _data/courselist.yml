@@ -108,5 +108,19 @@
   url: /software-engineering-track/intermediate-course-ii
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
-
+- name: "Software Engineering: NYSC Intermediate"
+  track: "software"
+  id: 11
+  description: >-
+    This course is a fast-track focusing on Python programming skills required for developers to launch careers
+    in software engineering.
+  certificate: "iSTEMLabsAfrica Mid Level Developer (Corper Bootcamp) Certificate"
+  delivery: Online and In-Person
+  num_of_lessons: 4
+  num_of_hours: 36
+  fee_per_hour: 277.77777
+  instructor_id: 1
+  image: /assets/images/courses/06.jpg
+  url: /software-engineering-track/nysc-intermediate-course
+  registration_url: "https://tinyurl.com/mvbu3f9r"
  
