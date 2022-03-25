@@ -13,7 +13,7 @@ featured: true
 course_id: 5
 course_code: "SENG-106"
 faculty_notes: ""
-permalink: /software-engineering-track/beginner-course-III
+permalink: /software-engineering-track/beginner-course-iii
 description: Participants engage in ideation, design and development of applications connected to more than more backends.e.g. DataBase, REST API e.t.c.
 ---
 
@@ -31,7 +31,7 @@ To participate in this course, students must demonstrate competence in the follo
 
 
 ## Certification
-Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: PHP Web Developer ” Certificate.
+Upon successful completion of this course, participants will be awarded the “iSTEMLabsAfrica Software Engineering: PHP Web Developer” Certificate.
 
 ## Cost
 The cost of this course is N60,000 (Sixty Thousand Naira Only)
