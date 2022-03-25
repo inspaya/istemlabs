@@ -22,7 +22,7 @@ The first part of the beginner course builds on previous knowledge gained in the
 <a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
 ## Duration
-This course runs for a total duration of 24 hours (23 paid hours + 1 FREE hour).
+This course runs for a total duration of 22 hours (21 paid hours + 1 FREE hour).
 
 ## Prerequisites
 To participate in this course, students must demonstrate competence in the following concepts:
@@ -37,7 +37,7 @@ To participate in this course, students must demonstrate competence in the follo
 Upon successful completion of this course, participants will be awarded the **iSTEMLabsAfrica Software Engineering: Beginner Course I** certificate.
 
 ## Cost
-The cost of this course is N46,000 (Fourty-Six Thousand Only)
+The cost of this course is N42,000 (Fourty-Two Thousand Only)
 
 ## Course Content
  1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
