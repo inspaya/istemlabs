@@ -87,10 +87,13 @@
 <body>
 
    {% include header.html %}
+
    {% if page.url != '/index.html' %}
       {% include page-title.html %}
    {%  endif %}
+
    {{content}}
+   
    {% include footer.html %}
 
    <!-- gulp:js -->
