@@ -3,8 +3,6 @@ layout: default
 ---
 
 <link rel="stylesheet" href="/assets/css/course-content.css">
-
-{% include page-title.html %}
 <!-- Start Themeix Course Info -->
 <section class="themeix-course-info section-spacing">
     <div class="container course-instructor-card">
@@ -57,13 +55,6 @@ layout: default
                 <div class="themeix-sidebar-right">
                     {% assign course = site.data.courselist | where: 'id', page.course_id | first %}
                     {% include register-sidebar.html %}
-
-                    {% comment %}
-                    {% assign software_course = site.data.courselist | where: 'track', 'software'| first %}
-                    {% include software-engineering-meta.html %}
-                    {% assign software_course = site.data.courselist | where: 'track', 'stem'| first %}
-                    {% include stem-meta.html %}
-                    {% endcomment %}
                 </div>
             </div>
         </div>
