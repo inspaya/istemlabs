@@ -9,7 +9,7 @@
   num_of_lessons: 8
   num_of_hours: 22
   fee_per_hour: 1000
-  instructor_id: 2
+  instructor_id: 1
   image: /assets/images/courses/scratch.png
   url: /stem-track/programming-for-kids-i
   registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
@@ -41,7 +41,7 @@
   num_of_lessons: 5
   num_of_hours: 26
   fee_per_hour: 2000
-  instructor_id: 2
+  instructor_id: 1
   image: /assets/images/courses/git.png
   url:  /software-engineering-track/foundation-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
