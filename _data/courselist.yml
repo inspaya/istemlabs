@@ -124,3 +124,10 @@
   url: /software-engineering-track/nysc-intermediate-course
   registration_url: "https://tinyurl.com/mvbu3f9r"
  
+- name: "Foundation Course: Bash Programming"
+  layout: lesson
+  description: >-
+   Bash is an interpreter responsible for processing commands on the command line and is typically run in a text window where users type commands to have a computer execute actions. 
+   The language can also be used to read and execute commands from files."
+  image: /assets/images/courses/bash_programming.jpg
+  url: /software-engineering-track/bash-programming
