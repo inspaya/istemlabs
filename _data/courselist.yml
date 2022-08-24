@@ -131,3 +131,11 @@
    The language can also be used to read and execute commands from files."
   image: /assets/images/courses/bash_programming.jpg
   url: /software-engineering-track/bash-programming
+
+- name: "Foundation Course: Linux O/S"
+  layout: lesson
+  track: "software"
+  description: Linux O/S is an operating system that manages resources, communicates with the hardware and acts as the main interface between the hardware and any running program.
+            It is very flexible, it can also support almost every programming language.
+  image: /assets/images/courses/linux.jpg
+  url: /software-engineering-track/linux
