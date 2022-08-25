@@ -12,7 +12,7 @@ course_code: "SENG 101"
 faculty_notes: ""
 description: "The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers."
 permalink: /software-engineering-track/foundation-course
-image: /assets/images/courses/git.png
+image: /assets/images/courses/foundation.jpg
 instructor_id: 1
 ---
 
@@ -31,7 +31,7 @@ To participate in this course, students only need to be familiar with how to ope
 Upon successful completion of this course, participants will be awarded the **iSTEMLabsAfrica Software Engineering: Foundation Course** certificate.
 
 ## Cost
-The cost of this course is N52,000 (Fifty-Two Thousand Naira Only). 
+The cost of this course is N78,000 (Seventy-Eight Thousand Naira Only).
 
 ## Course Content
 1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)

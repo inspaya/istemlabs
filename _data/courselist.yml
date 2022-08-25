@@ -40,7 +40,7 @@
   delivery: Online and In-Person
   num_of_lessons: 5
   num_of_hours: 26
-  fee_per_hour: 2000
+  fee_per_hour: 3000
   instructor_id: 1
   image: /assets/images/courses/foundation.jpg
   url:  /software-engineering-track/foundation-course
