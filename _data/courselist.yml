@@ -10,7 +10,7 @@
   num_of_hours: 22
   fee_per_hour: 1000
   instructor_id: 1
-  image: /assets/images/courses/scratch.png
+  image: /assets/images/courses/scratch.jpg
   url: /stem-track/programming-for-kids-i
   registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
 
