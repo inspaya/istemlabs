@@ -2,7 +2,7 @@
 layout: course
 title: "Software Programming for Kids I"
 date: 2019-01-01 10:59:37 +0600
-image: /assets/images/courses/scratch.png
+image: /assets/images/courses/scratch.jpg
 instructor_id: 1
 comments: true
 duration: 22 Hours
