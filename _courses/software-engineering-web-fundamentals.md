@@ -1,6 +1,6 @@
 ---
 layout: course
-title: "Software Engineering Web Fundamentals"
+title: "Web Fundamentals Course"
 date: 2019-01-01 10:59:37 +0600
 image: /assets/images/courses/web_fundamentals.jpg
 instructor_id: 1
