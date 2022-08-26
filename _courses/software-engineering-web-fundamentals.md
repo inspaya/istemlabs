@@ -1,8 +1,8 @@
 ---
 layout: course
-title: "Software Engineering Beginner Course I"
+title: "Software Engineering Web Fundamentals"
 date: 2019-01-01 10:59:37 +0600
-image: /assets/images/courses/seng.png
+image: /assets/images/courses/web_fundamentals.jpg
 instructor_id: 1
 comments: true
 duration: 24 hrs
@@ -13,7 +13,7 @@ course_id: 4
 course_code: "SENG 103"
 faculty_notes: ""
 description: The first part of the beginner course builds on previous knowledge gained in the foundation course while also helping students understand the key elements of software development for the web. Students are engaged in real-world software projects with the aim of publishing their first creation.
-permalink: /software-engineering-track/beginner-course-i
+permalink: /software-engineering-track/web-fundamentals-course
 ---
 
 ## Objective
@@ -38,7 +38,7 @@ To participate in this course, students must demonstrate competence in the follo
 Upon successful completion of this course, participants will be awarded the **iSTEMLabsAfrica Software Engineering: Beginner Course I** certificate.
 
 ## Cost
-The cost of this course is N46,000 (Fourty-Six Thousand Only)
+The cost of this course is N69,000 (Sixty-Nine Thousand Naira Only)
 
 ## Course Content
  1. 1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
