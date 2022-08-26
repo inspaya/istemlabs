@@ -46,7 +46,7 @@
   url:  /software-engineering-track/foundation-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
-- name: "Software Engineering: Beginner I"
+- name: "Software Engineering: Web Fundamentals"
   id: 4
   track: "software"
   description: >-
@@ -56,10 +56,10 @@
   delivery: Online and In-Person
   num_of_lessons: 5
   num_of_hours: 23
-  fee_per_hour: 2000
+  fee_per_hour: 3000
   instructor_id: 1
-  image: /assets/images/courses/06.jpg
-  url: /software-engineering-track/beginner-course-i
+  image: /assets/images/courses/web_fundamentals.jpg
+  url: /software-engineering-track/web-fundamentals-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: NYSC Beginners Course"
