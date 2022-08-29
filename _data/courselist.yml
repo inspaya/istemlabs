@@ -124,3 +124,10 @@
   url: /software-engineering-track/nysc-intermediate-course
   registration_url: "https://tinyurl.com/mvbu3f9r"
   
+- name: "Software: Python Beginner III"
+  track: "stem"
+  description: >-
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
+  image: /assets/images/courses/banner-kids3.jpg
+  url: /stem-track/python-beginner-iii  
