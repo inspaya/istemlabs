@@ -123,4 +123,11 @@
   image: /assets/images/courses/06.jpg
   url: /software-engineering-track/nysc-intermediate-course
   registration_url: "https://tinyurl.com/mvbu3f9r"
-  
+
+- name: "Software Engineering: Ansible"
+  track: "Software"
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+  image: /assets/images/courses/ansible.jpg
+  url: /software-engineering-track/ansible
+
