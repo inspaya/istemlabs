@@ -11,7 +11,7 @@
 <div><br /></div>
 
 <div
-    class="cardframe col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}3{% elsif page.url == '/about' %}4{% elsif page.url == '/software-engineering-track' %}3{% else %}4{% endif %}">
+    class="cardframe col-md-{% if page.url == '/course-grid' %}4 {% elsif page.url == '/index.html' %}3{% elsif page.url == '/about' %}4{% elsif page.url == '/software-engineering-track' %}4{% else %}4{% endif %}">
     <div class="cardbox popular-course-post wow fadeIn" data-wow-duration="2s">
         <div class="popular-course-thumb" style="background-image:url({{course.image}});">
             {% assign instructor = site.instructors | where: 'instructor_id', course.instructor_id | first %}
