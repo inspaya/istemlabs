@@ -17,15 +17,15 @@ instructor_id: 1
 ---
 
 ## Objective
-The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system. The course is concluded with student's deploying a fully functional PHP web application to a cloud-based Linux server. Upon completing this course, students should be able to comfortably start a career as a Junior Developers specializing in building PHP web applications.
+The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system. The course is concluded with students deploying a fully functional PHP web application to a cloud-based Linux server. Upon completing this course, students should be able to comfortably start/grow their careers as a Junior Developer specializing in building database-driven PHP web applications.
 
 <a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
 ## Duration
-This course runs for a total duration of 66 hours (65 paid hours + 1 FREE hour) or approximately 5-months or less depending on how many sessions per week attended.
+This course runs for a total duration of 66 hours (65 paid hours + 1 FREE hour) which roughly equates to 5 months or less depending on how many sessions student attends per week.
 
 ## Prerequisites
-To participate in this course, students only need to be familiar with how to operate a computer system, use the input devices such as keyboard and mouse, as well as be familiar with how to access information on the Internet.
+To participate in this course, students need to be comfortable with operating a computer system, as well as how to source for information on the Internet and organize such on a computer system.
 
 ## Certification
 Participants who complete this course will be awarded the **Software Engineering Foundation: Junior PHP Developer** certificate.
@@ -33,7 +33,7 @@ Participants who complete this course will be awarded the **Software Engineering
 ## Cost
 The cost of this course is **N260,000 (Two-Hundred and Sixty-Thousand Naira)** only.
 
-As part of our commitment to youth development in Nigeria, we have partnered with the S.A.E.D department of the N.Y.S.C. such that, **any actively serving Youth Corper(s) who register(s) to participate in this course will only pay a fee of N10,000 (Ten Thousand Naira)**
+As part of iSTEMLabsAfrica's commitment to youth empowerment in Nigeria, we have partnered with the Skills and Entrepreneurship Development (S.A.E.D) department of the National Youth Service Coprs (N.Y.S.C) scheme such that, **any actively serving Youth Corper(s) who register(s) to participate in this course will only pay a fee of N10,000 (Ten Thousand Naira)**
 
 ## Course Content
 1.  1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
@@ -44,7 +44,7 @@ As part of our commitment to youth development in Nigeria, we have partnered wit
     4.  File Permissions, Redirection and Piping
 3.  3hrs - Linux O/S Part II
     1.  Using Text Editors
-    2.  Environment Variables
+    2.  Understanding Environment Variables
     3.  Working with Secure SHell (SSH)
 4.  1hr - Project A: The student’s knowledge of Linux is tested.
 5.  3hrs - Version Control with Git
@@ -63,8 +63,8 @@ As part of our commitment to youth development in Nigeria, we have partnered wit
 12. 1hr - Project D: The student's ability to build simple PHP scripts is tested.
 13. 6hrs - Introduction to the PHP Language II
     1.  Working with Functions
-    2.  Working with 3rd-Pary Libraries + Dependency Management (Composer)
-    3.  Unit Testing
+    2.  Working with 3rd-Pary Libraries + Dependency Management
+    3.  Introduction to Unit Testing
 14. 1hr - Project E: The student's ability to write well-tested code is evaluated.
 15. 6hrs - Introduction to the PHP Language III: Object Oriented Programming (OOP)
     1.  Classes
