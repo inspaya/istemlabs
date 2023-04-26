@@ -31,7 +31,9 @@ To participate in this course, students only need to be familiar with how to ope
 Participants who complete this course will be awarded the **Software Engineering Foundation: Junior PHP Developer** certificate.
 
 ## Cost
-The cost of this course is N260,000 (Two-Hundred and Sixty-Thousand Naira Only).
+The cost of this course is **N260,000 (Two-Hundred and Sixty-Thousand Naira)** only.
+
+As part of our commitment to youth development in Nigeria, we have partnered with the S.A.E.D department of the N.Y.S.C. such that, **any actively serving Youth Corpers who registers to participate in this course will only pay a fee of N10,000 (Ten Thousand Naira)**
 
 ## Course Content
 1.  1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
