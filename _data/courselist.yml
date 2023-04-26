@@ -39,27 +39,11 @@
   certificate: "iSTEMLabsAfrica Software Developer Foundation Certificate"
   delivery: Online and In-Person
   num_of_lessons: 5
-  num_of_hours: 26
-  fee_per_hour: 3000
+  num_of_hours: 65
+  fee_per_hour: 4000
   instructor_id: 1
   image: /assets/images/courses/foundation.jpg
   url:  /software-engineering-track/foundation-course
-  registration_url: "https://tinyurl.com/6kmnrzc6"
-
-- name: "Web Fundamentals Course"
-  id: 4
-  track: "software"
-  description: >-
-    This course introduces participants into building static content for the web. Students learn HTML/CSS and Javascript,
-    which form the foundation for building the mordern web.
-  certificate: "iSTEMLabsAfrica Website Builder Certificate I"
-  delivery: Online and In-Person
-  num_of_lessons: 5
-  num_of_hours: 23
-  fee_per_hour: 3000
-  instructor_id: 1
-  image: /assets/images/courses/web_fundamentals.jpg
-  url: /software-engineering-track/web-fundamentals-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: "Software Engineering: NYSC Beginners Course"
