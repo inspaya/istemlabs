@@ -3,9 +3,9 @@
   track: "software"
   description: >-
     A gentle but in-depth introduction into the world of software development, 
-    the tools & technologies. 
-  certificate: "iSTEMLabsAfrica Software Developer Foundation Certificate"
+    the tools & technologies.
   delivery: Online and In-Person
+  certificate: "Software Engineering Foundation: Junior PHP Developer"
   num_of_lessons: 5
   num_of_hours: 65
   fee_per_hour: 4000
