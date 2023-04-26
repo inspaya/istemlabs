@@ -10,7 +10,7 @@ fees: To be announced
 rating: 4
 track: "stem"
 featured: true
-course_id: 1
+course_id: 2
 course_code: "STEM-101"
 faculty_notes: "scratch introduction, blocks overview, complete programs"
 description: >-
