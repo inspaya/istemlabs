@@ -10,7 +10,7 @@ fees: To be announced
 rating: 4
 track: "stem"
 featured: true
-course_id: 2
+course_id: 3
 course_code: "STEM-102"
 faculty_notes: " "
 description: This course builds on knowledge acquired in Programming for Kids I. Participants learn to instruct the computer using the Python programming language.
