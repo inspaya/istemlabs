@@ -10,14 +10,14 @@ featured: true
 course_id: 3
 course_code: "SENG 101"
 faculty_notes: ""
-description: "The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDD relational database management system."
+description: "The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system."
 permalink: /software-engineering-track/foundation-course
 image: /assets/images/courses/foundation.jpg
 instructor_id: 1
 ---
 
 ## Objective
-The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDD relational database management system. The course is concluded with student's deploying a fully functional PHP web application to a cloud-based Linux server. Graduands of this course should be able to comfortably work as Junior Developers specializing in building PHP web applications.
+The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system. The course is concluded with student's deploying a fully functional PHP web application to a cloud-based Linux server. Upon completing this course, students should be able to comfortably start a career as a Junior Developers specializing in building PHP web applications.
 
 <a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
@@ -28,7 +28,7 @@ This course runs for a total duration of 66 hours (65 paid hours + 1 FREE hour) 
 To participate in this course, students only need to be familiar with how to operate a computer system, use the input devices such as keyboard and mouse, as well as be familiar with how to access information on the Internet.
 
 ## Certification
-Upon successful completion of this course, participants will be awarded the **Software Engineering Foundation: Junior PHP Developer** certificate.
+Participants who complete this course will be awarded the **Software Engineering Foundation: Junior PHP Developer** certificate.
 
 ## Cost
 The cost of this course is N260,000 (Two-Hundred and Sixty-Thousand Naira Only).
