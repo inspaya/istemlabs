@@ -9,7 +9,7 @@ track: "software"
 featured: true
 course_id: 3
 course_code: "SENG 101"
-faculty_notes: ""
+faculty_notes: "software engineering"
 description: "The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system."
 permalink: /software-engineering-track/foundation-course
 image: /assets/images/courses/seng_foundation.jpg
