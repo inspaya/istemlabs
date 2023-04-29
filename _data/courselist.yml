@@ -2,15 +2,14 @@
   id: 1
   track: "software"
   description: >-
-    A gentle but in-depth introduction into the world of software development, 
-    the tools & technologies.
+    This course is designed to provide a solid introduction to Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers
   delivery: Online and In-Person
   certificate: "Software Engineering Foundation: Junior PHP Developer"
   num_of_lessons: 5
   num_of_hours: 65
   fee_per_hour: 4000
   instructor_id: 1
-  image: /assets/images/courses/foundation.jpg
+  image: /assets/images/courses/seng_foundation.jpg
   url:  /software-engineering-track/foundation-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
 

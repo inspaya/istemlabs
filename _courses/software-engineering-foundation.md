@@ -9,15 +9,17 @@ track: "software"
 featured: true
 course_id: 3
 course_code: "SENG 101"
-faculty_notes: ""
+faculty_notes: "software engineering"
 description: "The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system."
 permalink: /software-engineering-track/foundation-course
-image: /assets/images/courses/foundation.jpg
+image: /assets/images/courses/seng_foundation.jpg
 instructor_id: 1
 ---
 
 ## Objective
 The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system. The course is concluded with students deploying a fully functional PHP web application to a cloud-based Linux server. Upon completing this course, students should be able to comfortably start/grow their careers as a Junior Developer specializing in building database-driven PHP web applications.
+
+**Please note that the server-side language of choice can be switched from PHP to Python or NodeJS under a modified course**. Kindly contact us for more information about this option.
 
 <a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
@@ -28,12 +30,12 @@ This course runs for a total duration of 66 hours (65 paid hours + 1 FREE hour) 
 To participate in this course, students need to be comfortable with operating a computer system, as well as how to source for information on the Internet and organize such on a computer system.
 
 ## Certification
-Participants who complete this course will be awarded the **Software Engineering Foundation: Junior PHP Developer** certificate.
+Participants who complete this course will be awarded the **Software Engineering Foundation: Junior Developer (PHP)** certificate.
 
 ## Cost
 The cost of this course is **N260,000 (Two-Hundred and Sixty-Thousand Naira)** only.
 
-As part of iSTEMLabsAfrica's commitment to youth empowerment in Nigeria, we have partnered with the Skills and Entrepreneurship Development (S.A.E.D) department of the National Youth Service Coprs (N.Y.S.C) scheme such that, **any actively serving Youth Corper(s) who register(s) to participate in this course will only pay a fee of N10,000 (Ten Thousand Naira)**
+As part of iSTEMLabsAfrica's commitment to youth empowerment in Nigeria, we have partnered with the Skills and Entrepreneurship Development (S.A.E.D) department of the National Youth Service Corps (N.Y.S.C) scheme such that, **any actively serving Youth Corper(s) who register(s) to participate in this course will only pay a fee of N10,000 (Ten Thousand Naira)**
 
 ## Course Content
 1.  1hr - iSTEMLabsAfrica Digital Awareness Health Check (FREE)
