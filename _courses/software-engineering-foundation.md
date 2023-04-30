@@ -17,9 +17,9 @@ instructor_id: 1
 ---
 
 ## Objective
-The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language, and the MySQL/MariaDB relational database management system. The course is concluded with students deploying a fully functional PHP web application to a cloud-based Linux server. Upon completing this course, students should be able to comfortably start/grow their careers as a Junior Developer specializing in building database-driven PHP web applications.
+The foundation course is designed to provide a solid introduction to the world of Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers. In addition, students learn how to build web applications using HTML/CSS/JavaScript, the PHP server-side language [§], and the MySQL/MariaDB relational database management system. The course is concluded with students deploying a fully functional PHP web application to a cloud-based Linux server. Upon completing this course, students should be able to comfortably start/grow their careers as a Junior Developer specializing in building database-driven PHP web applications.
 
-**Please note that the server-side language of choice can be switched from PHP to Python or NodeJS under a modified course**. Kindly contact us for more information about this option.
+[§] **Please note that the server-side language of choice can be switched from PHP to Python or NodeJS under a modified course**. Kindly contact us for more information about this option.
 
 <a target="_blank" href="https://tinyurl.com/6kmnrzc6">Click here to register</a>
 
