@@ -5,7 +5,7 @@
     This course is designed to provide a solid introduction to Software Engineering by exposing participants to core concepts, knowledge and skills required to succeed as Software Engineers
   delivery: Online and In-Person
   certificate: "Software Engineering Foundation: Junior PHP Developer"
-  num_of_lessons: 5
+  num_of_lessons: 25
   num_of_hours: 65
   fee_per_hour: 4000
   instructor_id: 1
@@ -44,3 +44,18 @@
   image: /assets/images/courses/banner-kids2.jpg
   url: /stem-track/programming-for-kids-ii
   registration_url: "https://forms.gle/sGEdvfREd1iF1mMaA"
+
+- name: "Software Engineering: Python"
+  id: 4
+  track: "software"
+  description: >-
+    Python is a simple-to-learn, yet, versatile programming language used in robotics, machine learning, scientific research, cybersecurity, devops and many more software projects.
+  delivery: Online and In-Person
+  certificate: "Software Engineering Python Developer"
+  num_of_lessons: 25
+  num_of_hours: 56
+  fee_per_hour: 4000
+  instructor_id: 1
+  image: /assets/images/courses/seng_python.jpg
+  url:  /software-engineering-track/python-course
+  registration_url: "https://tinyurl.com/6kmnrzc6"
