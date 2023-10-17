@@ -59,3 +59,18 @@
   image: /assets/images/courses/seng_python.jpg
   url:  /software-engineering-track/python-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "Cybersecurity: Secure Code Review"
+  id: 5
+  track: "software"
+  description: >-
+    In many software projects, developers in their race to meet deadlines often ignore several security best-practices, which leaves their finished products vulnerable to malicous human/bot attackers.
+  delivery: Online and In-Person
+  certificate: "Software Engineering Python Developer"
+  num_of_lessons: 20
+  num_of_hours: 35
+  fee_per_hour: 4000
+  instructor_id: 1
+  image: /assets/images/courses/cyber_appsec_code_review.jpg
+  url:  /software-engineering-track/cybersecurity/secure-code-review
+  registration_url: "https://tinyurl.com/6kmnrzc6"
