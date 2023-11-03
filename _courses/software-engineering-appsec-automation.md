@@ -1,6 +1,6 @@
 ---
 layout: course
-title: "CyberSecurity Security Automation Course"
+title: "CyberSecurity Automation Course"
 date: 2023-10-17 15:29:37 +0100
 comments: true
 duration: 56 hrs
