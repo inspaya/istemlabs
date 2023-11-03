@@ -74,3 +74,18 @@
   image: /assets/images/courses/cyber_appsec_code_review.jpg
   url: /software-engineering-track/appsec-code-review
   registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "Cybersecurity: AppSec Security Automation"
+  id: 6
+  track: "software"
+  description: >-
+    The work required to secure one software system is often multi-faceted, repetitive, and sometimes laborious, which makes it error-prone when handled manually.
+  delivery: Online and In-Person
+  certificate: "CyberSecurity: AppSec Security Automation"
+  num_of_lessons: 20
+  num_of_hours: 56
+  fee_per_hour: 4000
+  instructor_id: 1
+  image: /assets/images/courses/cyber_appsec_security_automation.jpg
+  url: /software-engineering-track/appsec-automation
+  registration_url: "https://tinyurl.com/6kmnrzc6"
