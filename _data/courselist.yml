@@ -10,7 +10,7 @@
   fee_per_hour: 4000
   instructor_id: 1
   image: /assets/images/courses/seng_foundation.jpg
-  url:  /software-engineering-track/foundation-course
+  url: /software-engineering-track/foundation-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
 - name: " Software: Programming for Kids I"
@@ -33,8 +33,8 @@
   id: 3
   track: "stem"
   description: >-
-   This course builds on knowledge acquired in Programming for Kids I. Participants learn
-   to write code in the Python programming language.
+    This course builds on knowledge acquired in Programming for Kids I. Participants learn
+    to write code in the Python programming language.
   delivery: Online and In-Person
   certificate: "iSTEMLabsAfrica Kids Coder II"
   num_of_lessons: 8
@@ -57,20 +57,20 @@
   fee_per_hour: 4000
   instructor_id: 1
   image: /assets/images/courses/seng_python.jpg
-  url:  /software-engineering-track/python-course
+  url: /software-engineering-track/python-course
   registration_url: "https://tinyurl.com/6kmnrzc6"
 
-- name: "Cybersecurity: Secure Code Review"
+- name: "Cybersecurity: AppSec Code Review"
   id: 5
   track: "software"
   description: >-
     In many software projects, developers in their race to meet deadlines often ignore several security best-practices, which leaves their finished products vulnerable to malicous human/bot attackers.
   delivery: Online and In-Person
-  certificate: "Software Engineering Python Developer"
+  certificate: "CyberSecurity: AppSec Code Reviewer"
   num_of_lessons: 20
   num_of_hours: 35
   fee_per_hour: 4000
   instructor_id: 1
   image: /assets/images/courses/cyber_appsec_code_review.jpg
-  url:  /software-engineering-track/cybersecurity/secure-code-review
+  url: /software-engineering-track/appsec-code-review
   registration_url: "https://tinyurl.com/6kmnrzc6"
