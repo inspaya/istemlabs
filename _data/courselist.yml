@@ -104,3 +104,18 @@
   image: /assets/images/courses/cyber_appsec_threat_modeling.jpg
   url: /software-engineering-track/appsec-threat-modeling
   registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "DevOps: Linux Administration"
+  id: 8
+  track: "software"
+  description: >-
+    The Linux operating system is a crucial tool for mission-critical software systems. Knowledge of how to successfully harness the power of this platform to positively tranform the experience of administrators and developers alike is a crucial skill to posses.
+  delivery: Online and In-Person
+  certificate: "DevOps: Linux Administration"
+  num_of_lessons: 20
+  num_of_hours: 76
+  fee_per_hour: 4000
+  instructor_id: 1
+  image: /assets/images/courses/devops_linux_administration.jpg
+  url: /software-engineering-track/devops-linux-administration
+  registration_url: "https://tinyurl.com/6kmnrzc6"
