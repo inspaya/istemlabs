@@ -2,6 +2,7 @@
 
 # Random config files
 .*
+*.code-workspace
 
 # install scripts
 init_wp

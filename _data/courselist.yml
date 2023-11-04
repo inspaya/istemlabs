@@ -89,3 +89,18 @@
   image: /assets/images/courses/cyber_appsec_security_automation.jpg
   url: /software-engineering-track/appsec-automation
   registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "Cybersecurity: Threat Modeling"
+  id: 7
+  track: "software"
+  description: >-
+    Threat Modeling is a proactive security techique where vulnerabilities in a system are identified and used as a guide to determine types of countermeasures to be introduced to prevent and/or mitigate the effects of such flaws.
+  delivery: Online and In-Person
+  certificate: "CyberSecurity: Threat Modeling"
+  num_of_lessons: 20
+  num_of_hours: 39
+  fee_per_hour: 4000
+  instructor_id: 1
+  image: /assets/images/courses/cyber_appsec_threat_modeling.jpg
+  url: /software-engineering-track/appsec-threat-modeling
+  registration_url: "https://tinyurl.com/6kmnrzc6"
