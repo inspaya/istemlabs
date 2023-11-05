@@ -119,3 +119,18 @@
   image: /assets/images/courses/devops_linux_administration.jpg
   url: /software-engineering-track/devops-linux-administration
   registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "DevOps: Ansible"
+  id: 9
+  track: "software"
+  description: >-
+    Deploying IT infrastructure often involves multiple manual steps. With rapid software development cycles, and varying infrastructure requirements being the norm in modern software engineering teams, the need for a consistent, repeatable process to automate provisioning such resources cannot be overempasized.
+  delivery: Online and In-Person
+  certificate: "DevOps: Ansible Developer"
+  num_of_lessons: 20
+  num_of_hours: 65
+  fee_per_hour: 4000
+  instructor_id: 1
+  image: /assets/images/courses/devops_ansible.jpg
+  url: /software-engineering-track/devops-ansible
+  registration_url: "https://tinyurl.com/6kmnrzc6"
