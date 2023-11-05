@@ -134,3 +134,18 @@
   image: /assets/images/courses/devops_ansible.jpg
   url: /software-engineering-track/devops-ansible
   registration_url: "https://tinyurl.com/6kmnrzc6"
+
+- name: "UI/UX: Design"
+  id: 10
+  track: "software"
+  description: >-
+    User Interface/User Experience design is crucial to software projects.
+  delivery: Online and In-Person
+  certificate: "UI/UX: Designer"
+  num_of_lessons: 20
+  num_of_hours: 45
+  fee_per_hour: 4000
+  instructor_id: 3
+  image: /assets/images/courses/ui_ux_design.jpg
+  url: /software-engineering-track/ui-ux-design
+  registration_url: "https://tinyurl.com/6kmnrzc6"
