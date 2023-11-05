@@ -29,7 +29,7 @@ This course runs for a total duration of 76 hours.
 To participate in this course, students are required to have basic familiarity with computer science concepts such as, what programming languages are, web and internet systems, operating systems, the ability to describe each of these items and give examples without necessarily knowing all the details of how they work is also considered beneficial. Familiarity with one more cyber attack techniques is a plus.
 
 ## Certification
-Participants who complete this course will be awarded the **CyberSecurity: Linux Administrator** certificate.
+Participants who complete this course will be awarded the **DevOps: Linux Administrator** certificate.
 
 ## Cost
 The cost of this course is N304,000 (Three-Hundred and Four Thousand Naira Only).
