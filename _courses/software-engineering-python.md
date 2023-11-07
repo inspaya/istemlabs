@@ -14,7 +14,7 @@ description: >-
   Python is a simple-to-learn, yet, versatile programming language used in robotics, machine learning, scientific research, cybersecurity, devops and many more software projects. At the end of this course, participants should be able to determine the appropriate Python libraries (standard and 3rd-party) better suited to developing software solutions.
 permalink: /software-engineering-track/python-course
 image: /assets/images/courses/seng_python.jpg
-instructor_id: 1
+instructor_id: 4
 ---
 
 ## Objective
