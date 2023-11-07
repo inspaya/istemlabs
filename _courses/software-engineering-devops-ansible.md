@@ -14,7 +14,7 @@ description: >-
   Deploying IT infrastructure (hardware, software, networks) often involves multiple manual steps. With rapid software development cycles, and varying infrastructure requirements being the norm in modern software engineering teams, the need for a consistent, repeatable process to automate provisioning such resources cannot be overempasized. This course dives into Ansible, a leading automation tool that thrives in streamlining the manual work required to deliver IT infrastructure. 
 permalink: /software-engineering-track/devops-ansible
 image: /assets/images/courses/devops_ansible.jpg
-instructor_id: 1
+instructor_id: 4
 ---
 
 ## Objective
