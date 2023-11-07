@@ -39,4 +39,44 @@ The cost of this course is N260,000 (Two-Hundred and Sixty Thousand Naira Only).
 As part of iSTEMLabsAfrica's commitment to youth empowerment in Nigeria, we have partnered with the Skills and Entrepreneurship Development (S.A.E.D) department of the National Youth Service Corps (N.Y.S.C) scheme such that, **any actively serving Youth Corper(s) who register(s) to participate in this course will only pay a fee of N10,000 (Ten Thousand Naira)**
 
 ## Course Content
-To be updated.
+1. 1hr - Digital Health Check
+2. 6hrs - Lab Setup
+   1. Vagrant Crash Course
+   2. Docker Crash Course
+   3. Demo Python Application
+   4. Demo NodeJS Application
+   5. Demo PHP Application
+3. 3hrs - Project A: Manually Setting up Web Applications
+4. 6hrs - Manual Deployments
+   1. SSH & SCP
+   2. Remote Host Configuration
+   3. Managing Application State on Remote Hosts
+5. 2hrs - Semi-Automated Deployments using BASH
+6. 3hrs - Project B: Manual Deployment
+7. 1hr - The Need for Automated Configuration and Orchestration.
+8. 2hrs - Overview of Ansible
+   1. Philosophy
+   2. Ansible vs X ?
+   3. How Ansible Works
+9. 2hrs - Getting Started
+   1. Installation and Setup
+   2. Key Concepts
+   3. Demo
+10. 6hrs - Working with Ansible I
+    1.  YAML Crash Course
+    2.  Ad-hoc Commands
+    3.  Inventory
+11. 3hrs - Project C: Working with Inventories
+12. 6hrs - Working with Ansible II
+    1.  Playbooks
+13. 3hrs - Project D: Working with Playbooks
+14. 2hrs - Managing Sensitive Data
+15. 3hrs - Ansible Modules and Plugins
+16. 3hrs - Project E: Working with Sensitive Data, Modules and Plugins
+17. 7hrs - Ansible with Cloud Platforms
+    1.  AWS Example
+    2.  GCP Example
+    3.  Azure Example
+18. 3hrs - Project F: Managing Cloud Platforms with Ansible
+19. 3hrs - Testing, Debugging and Troubleshooting
+20. 3hrs - Capstone Project
