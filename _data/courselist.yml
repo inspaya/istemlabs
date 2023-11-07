@@ -130,7 +130,7 @@
   num_of_lessons: 20
   num_of_hours: 65
   fee_per_hour: 4000
-  instructor_id: 1
+  instructor_id: 4
   image: /assets/images/courses/devops_ansible.jpg
   url: /software-engineering-track/devops-ansible
   registration_url: "https://tinyurl.com/6kmnrzc6"
